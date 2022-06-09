@@ -14,4 +14,6 @@ done
 
 rm FO.zip
 
+packwiz remove entityculling
+
 packwiz refresh
