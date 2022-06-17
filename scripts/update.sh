@@ -13,6 +13,7 @@ for mod in $(grep -rlw mods -e 'optional'); do
 done
 
 rm FO.zip
+rm -r resourcepacks/
 
 packwiz remove entityculling
 

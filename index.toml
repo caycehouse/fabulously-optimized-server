@@ -10,11 +10,11 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "646c1487eb142576fa76b87fef987a895bb9a9d18a1649180969469796013609"
+hash = "1989ef65109e8bdf56c9a25f00bb2e834f15cd183b59088fd5224125e82d6efe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3fd0bca90569cc0ca367d72e7c84c988de9a03bedc8757c58af94f532884e6ff"
+hash = "4fd16613959f98014c1c8b184ca8225f1f20d0de1c086d05f6ff4048acb1f5a0"
 
 [[files]]
 file = "config/modmenu.json"
@@ -122,8 +122,13 @@ hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "89e8ba5024083c088e5ea1ee74af9be50228b8fed407278a0faf9e7cac17c2fa"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
-hash = "620b2a59fe1a9080b0d8410585037b23461d9601c6e53c287d3570933ec38a88"
+hash = "e3ae0ae779b926549375d13de4f141d15cbfd61f3fa516106b8b965fc95266ec"
 metafile = true
 
 [[files]]
@@ -163,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "93d9cc77eb3643dbb0d2bffe6ca9c88033ab909061d35d2aaa0270340d8d10b7"
+hash = "fbf836530f60b6784d1e81e74288c1912777b6ea1dbfcc4330d7c32849ef7b50"
 metafile = true
 
 [[files]]
@@ -178,12 +183,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "93065188da30c0ac9e3859ea0f296fdc055d130b74ec0540cb9ffc8493cea997"
+hash = "3bc84e84cee8613849f8fe232f9edcbe0c3412a1bf86ab5553901b26d626bed3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "23c82cc89e5e080d3ea3a56052708782ee511091c387ef09ff5870d0dcd98827"
+hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
 metafile = true
 
 [[files]]
@@ -208,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ff2edbb00b2de30cbd9e3c8b65ef9c6b532a73445d94b02eb11dad91819361cd"
+hash = "ec9571e852c026ad41874d2da858afb8fdddc383602a2f357ec9a7d7fee01c10"
 metafile = true
 
 [[files]]
@@ -222,13 +227,18 @@ hash = "7848466b7f337faf90f5edb14aeed716c398f8abfe091cef7c4894102e2727d4"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "0d66d77d7354d3b8d4b89983c3a576895e9d3e74250a8797897ccf6e0291e6e2"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "6efed395750fd72a1396750da222739ed5708b63bfb5fbad59b05ebec779e22c"
 metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "c4a890bcac6c13bc25eb1a559dc990ad10cbb2f229ebfb9aa7c645234d9c5755"
+hash = "1703571d583ad5bbcad76c27b84027b2c7b42f4ee95b2b2ca1a8e9b7b98e03a8"
 metafile = true
 
 [[files]]
@@ -283,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "e5a6e7fb7994702cc2e4787aad7b042d91df44148140ed5bad245448536091e0"
+hash = "5a8dffb24cfa7a23746b3fc2eb9ab2155d094eceb8346f527c7e1cf48bbe1512"
 metafile = true
 
 [[files]]
@@ -325,11 +335,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "33dd47f911a5e7f0b1414375cb9b4e43378cf9497cb1af5424fc852ca4885840"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "34447de73eefb20d6be996663a10828c080a24363a24d831b4791a82983f2d50"
-
-[[files]]
-file = "scripts/update.sh"
-hash = "654c0555992415c52c2d5db08af33308c566e9ea2e26356ee186988c889de73c"
