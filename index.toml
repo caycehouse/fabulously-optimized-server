@@ -14,7 +14,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "af477883f9b25f2fc60246941f6d1b0028b2cf5b3076d299e96c78ba7a8b397b"
+hash = "020a44e5477b323dfb5113cbfe01dbb1e8cb3b27a0076a06b1b1cff9837ef4c0"
 
 [[files]]
 file = "config/modmenu.json"
@@ -94,7 +94,7 @@ hash = "cc6f863a8e250641184bfcd3b59169491fe5414a036996401b66bc019ebeedd8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "393270164256567026aed7e305e3f2a47b07f1a97ec1c5b5c7e08a2ed7525cf6"
+hash = "2eec74a728150235d802fc9b1baa2386737cc49bcaccaf221ffb55d0fac9cb8b"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "89e8ba5024083c088e5ea1ee74af9be50228b8fed407278a0faf9e7cac17c2fa"
+hash = "e0f6cbba2f655e4d7906d95d5c9e00837a72fa6a0c52ddadcd35de33c160f017"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cbedab2ca0ec5c65cbcb2e1c51c8cc638109b60d3774c3232534ccadda9b9335"
+hash = "e5fff11416eb5e50ec9655ce10e3e59838eb966a8d83057752c24f948aae7566"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "9a1304f1fad25b3285eea2db58036d1fd345c876b09599117eb7a2a8253494a8"
+hash = "011cdac05926935d1b86941f21b192514bf58d7178c83e1d40fa5a616f18ac8d"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "5a8dffb24cfa7a23746b3fc2eb9ab2155d094eceb8346f527c7e1cf48bbe1512"
+hash = "615f8158be122f497dc69c3be5026833536bcb0d0dd60f1d61403e58fbe679c2"
 metafile = true
 
 [[files]]
