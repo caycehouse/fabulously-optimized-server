@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports.json"
+hash = "faebe6d001be88df3e47722ab8255d19c7123cdfa00007d0989606b05f81ebcf"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -10,11 +14,11 @@ hash = "8e683a923285b2661e1492cf5ee17d4415478e70f8b06bf7c01a65afa705f471"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
+hash = "e7ad992a7fc5650df45d08a0773ef63049a917a12ed9ccc40472b3d107dfb587"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "30d2bdee0e007766a81150064ab25f391b129ac5d06b92c1f44d3709630bb622"
+hash = "b75d6c6c14835d68f45437cd76b7d2f88e10a7537039897bef8010ebc24facee"
 
 [[files]]
 file = "config/modmenu.json"
@@ -26,7 +30,7 @@ hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports.json"
-hash = "ce052ce133fcc17bf3151ec2634431ba11342d60da3bf0383117f4a1116d6e0f"
+hash = "faebe6d001be88df3e47722ab8255d19c7123cdfa00007d0989606b05f81ebcf"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -65,6 +69,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
 
 [[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
+
+[[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
@@ -82,7 +90,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "15ce78106c5e206e4bddf1da45e84967dafb9c04bf87a4b4ae09433229ec8990"
+hash = "fac2b7b20eaa1b22340ff7afca7daf12e800cc9c520f632f9a0c1b4730211d2c"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -141,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "6fb5b9849b6ba0cb9ff0057318b87b476aebd86d9505763233e1b1d150e73bf8"
+hash = "f4f8801f1e2a016a8ee62d54daee5cebf3370087c61d6e06a9e012d840140bb8"
 metafile = true
 
 [[files]]
@@ -161,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7deffd338b695e2e6e6f034cf6704f9b2743aca64f2c350945ad5a57dd4b03b"
+hash = "a9006f90e14388b3175a310e6ae5c0643d386932bd7fff173e324474bfd3c765"
 metafile = true
 
 [[files]]
@@ -221,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ab6559c392627be06948d290c10b1af211e0c153b8a333b885e2dc910f18d47f"
+hash = "84f503cded48e09f4991f73d05b483113ca57b3689ecab09f4d29846b98bb9c1"
 metafile = true
 
 [[files]]
@@ -236,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "011cdac05926935d1b86941f21b192514bf58d7178c83e1d40fa5a616f18ac8d"
+hash = "a67b229da14a57163c45083ea451a7f6c6b294e33ab06005c630fcf0d058c0c8"
 metafile = true
 
 [[files]]
@@ -246,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e441993c15186052f35a1981df9011175d285a35e1d54b856c7c8ae2e0377b7e"
+hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
 metafile = true
 
 [[files]]
@@ -256,12 +264,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5431bb6956b7c1ae5ea4adac6e4f0ced6537081a28ed5b5e7a9ce0994ba1074a"
+hash = "0ba1d15ee3753a20163410ff290ac157139d32a33b41d052421decf640c3ab38"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "5c29672e914ed228c0e79891bb13291aa56c2bdbf7e7b6c47c2c3376ee17fcd6"
+hash = "5bdfebf8876303a79675e980a8cf48982bc83b86dca67db68b01c43c6b1754d6"
 metafile = true
 
 [[files]]
@@ -271,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.pw.toml"
-hash = "da2f881af5407adbed6f097b5169950d9fb6c704465b5e82bf3f260c4e140f0f"
+hash = "0294c8cd51edc0fde7b46d2a151042e2c366413128b2e7d655b5cdd483b326d2"
 metafile = true
 
 [[files]]
@@ -321,5 +329,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "ad716fac8b1178432a76af304dd6d4e2806bb4f66e63a1f729097aa9ba523811"
+hash = "11307aeb2b004b37393ed3c669fb9d87ad55547bf33794a40b9b64fcd81be34f"
 metafile = true
