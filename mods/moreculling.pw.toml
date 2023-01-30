@@ -1,0 +1,13 @@
+name = "MoreCulling"
+filename = "moreculling-1.19.3-0.15.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62b30956a2794149e9d4050ce064f2de1d0a1ea4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4367056
+project-id = 630104

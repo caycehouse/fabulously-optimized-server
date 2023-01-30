@@ -1,13 +1,13 @@
 name = "MidnightControls"
-filename = "midnightcontrols-1.7.2+1.19.3.jar"
+filename = "midnightcontrols-1.7.3+1.19.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e9cbcea31d42ab413f3c64753b1fb55b64333140"
+hash = "d41a37fb56f0728da178e96e9465b74fdd078a7b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4158049
+file-id = 4293674
 project-id = 621768
