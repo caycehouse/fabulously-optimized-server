@@ -1,0 +1,13 @@
+name = "Entity Model Features [CEM] [Fabric & Forge]"
+filename = "entity_model_features_fabric_1.19.4-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15def86a3e9f27943156337001f86fb645b7526a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4469779
+project-id = 844662
