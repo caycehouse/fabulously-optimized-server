@@ -14,5 +14,6 @@ rm FO.zip
 rm -r resourcepacks/
 
 packwiz remove entityculling
+packwiz remove irisshaders
 
 packwiz refresh

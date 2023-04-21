@@ -221,11 +221,6 @@ hash = "e3c6ac773858196b36ad61bdce1132ac15ea7653ef4c6be3d0b99a54261672f8"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "5fd49061b502c0e8ab7842c1858d083ab48aa3d952cf606dc72381efe72dd960"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "77ed6be3b0982660b57676a46a9f38187173e460b7a58a72c6ec329b3ed1414b"
 metafile = true
