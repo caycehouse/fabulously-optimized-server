@@ -10,11 +10,11 @@ hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "aa1c2ab3bf7acc136d9bf065dc4d667ef11243e78b9764cbb015a5a4f43c3de0"
+hash = "c52441ce10123bedcac92b17c6c12f6858fa0709bd6be50052fd8d9fdb3f5d1c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0493569cf241b44c08df67e9345adbad63e79b4585c3c7ddfbea1867daf2a67d"
+hash = "0f514bc351f615852fc65d72e59b48bd6653ffc44a5c691b64584a2ca3fc5b9e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -70,7 +70,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "b2ff795b2b82deebf52364c177f798ad0e4bb4029a7823b3178bd142c25414f3"
+hash = "a9720fd49344992901e386bac87ede702ea445cd2c25aa5aa600c65338a045bd"
 metafile = true
 
 [[files]]
@@ -156,8 +156,13 @@ hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "f0b618008ea038fdc2bc0dcf91de79c806e157e0d652d4af862357f547b82016"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9442994f14eaa61e14e316845f3434d51d42daf5b2f87782a21906b625ab5913"
+hash = "478676cf1a41c418247527f36c289088a1f1e12872ef0a51992c6cd5f4b884db"
 metafile = true
 
 [[files]]
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "01d49deb339e7ef258683beda7a193b0bc5f6cf07520582b2ec8a7e83577d189"
+hash = "8ef713f0cb58e98bb8455ae9c067bb985a250b9391381ab627d50806a0631d28"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6e20212c17e66af05904711c5ea1763cde131b1ad3e1975076611bbc443561e6"
+hash = "2b79b3e67734ce1c38e30a7d29f20a9fabf1022e13a67b044700ebfd22207c8f"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "505a762070ffb7b6948b1206895f1eebb2bf5066e8f0943fb494720592e150d0"
+hash = "5fd49061b502c0e8ab7842c1858d083ab48aa3d952cf606dc72381efe72dd960"
 metafile = true
 
 [[files]]
@@ -261,9 +266,8 @@ hash = "b5f1cc6a8284c142cc1a03396dc5f17f658e27613a46a646e8b0179859cc829e"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "4b1acc40211972d0aa39dfd06edf66910a6c5de154576fc3ad1d05f44413bdbe"
-metafile = true
+file = "mods/modmenu-6.2.0.jar"
+hash = "019c726c0b6affac07b4561bd1bee566aaa20809da9aea2102c306d39f925cf0"
 
 [[files]]
 file = "mods/more-chat-history.pw.toml"
@@ -317,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "526a050918611384c4edd7647d997bb6906a4b6a4d7531132835ff567f31fc39"
+hash = "c272a0b4dcf61874e44c767fae3719be413d1c234d858e97fa23ed1047f50dae"
 metafile = true
 
 [[files]]
@@ -327,5 +331,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "ae446098e5d170fa6266995de90837aeef42a357550ca1135a078eb12acf9536"
+hash = "3038329c1774bdb52bc4f55b246decccb630a58e1c9c244d6cfbde8d32ed4f40"
 metafile = true
