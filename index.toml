@@ -10,11 +10,11 @@ hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a8d750cc4c3a9723282fcfeb8b882acc11ab47b3340a048d7406cf376de53898"
+hash = "9733c8605b1b3282f658a316b158360a597f8afce0c67cce15b9d02ddf495467"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "859e34b70c9430605631ec5fdb9d43ead8318b24a8baa9e1cb26c5d5b19361ef"
+hash = "b2a5ef7eb1eecb64ff5272c22e776a19fd9ceeaac9ff7fef1fb14b77b600f3b1"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -39,6 +39,14 @@ hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -98,7 +106,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e840840d9d85a5722e3a9fdce284048916259088a074513b9fd116ff08e4f585"
+hash = "cc304f44e001650437f30afc48f2cda0d53c21b3d8bedc20772a3990324b4d98"
 
 [[files]]
 file = "mods/antighost.pw.toml"
@@ -122,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "ead5d9ec317da61b4b54ed5a5e08deddbf5ab7804eb1795b68807e9e7cece022"
+hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
 
 [[files]]
@@ -137,12 +145,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "a5af03e42a9fb87c40943c3a84dddc7aceb5d4e5d1a5b3305be9ad1601b7f3be"
+hash = "2b23faaea45e753e3f8c9da4a64580cbe82e3e29eaadf3be76f414a681424441"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "e01dc8ce332613af31baf9a25a45fd8404d824abb5539d12ecae212f4a81bde4"
+hash = "8b35d76055c431705faca9383567688b1354a8dbecec36a19b59c6df115b15f3"
 metafile = true
 
 [[files]]
@@ -162,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "24982d1771b81dc1c3953fca281d9c26efcc2eb70e499fa984139ff9b52acbdc"
+hash = "4e904404198dc983a2ba370f7c5ddb1427ded89a8f2676165f305cdfbdadfecc"
 metafile = true
 
 [[files]]
@@ -202,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "42176cb0de2f0a6715223015f86ed21500bc1b0d8c7bbb2e9e0b83f56e0d55af"
+hash = "8eae8f79df14f90dca19932f8d7a7f1645b6e67750df307c390b10fe15f3cf3d"
 metafile = true
 
 [[files]]
@@ -218,10 +226,6 @@ hash = "e0ca4e507b8f36135fb053ce74dd3e48325a7f364051b0d1329f676cf8e4d6e5"
 file = "mods/language-reload.pw.toml"
 hash = "bf6dc772edaa6d33894be9a9032bf57550b9359ee4336f7ae68726368cf1d6f8"
 metafile = true
-
-[[files]]
-file = "mods/lithium-fabric-mc1.20-0.11.2.jar"
-hash = "294e1e336551c20352f9747b241da57d762a29ddb105972be77263c063979fc5"
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
@@ -292,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
 
 [[files]]
