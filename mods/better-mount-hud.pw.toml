@@ -1,13 +1,13 @@
 name = "Better Mount HUD"
-filename = "bettermounthud-1.2.1.jar"
+filename = "bettermounthud-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7cd40803e2dcfe42a7a3c3984e47a059ac2151ec"
+hash = "6942fb39ca2e87208b0b0630a5efc4511c82dcf4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4147405
+file-id = 4574355
 project-id = 475358
