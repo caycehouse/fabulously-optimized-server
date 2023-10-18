@@ -1,13 +1,13 @@
 name = "Puzzle"
-filename = "puzzle-1.5.1+1.20.jar"
+filename = "puzzle-1.6.0+1.20.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "72f270e7740285a1276f43ef5b1f8542e9048be3"
+hash = "dfb0b32b72f86d751a063d2fcb6341f95968f589"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4578550
+file-id = 4767322
 project-id = 563977
