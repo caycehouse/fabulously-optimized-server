@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bd6fe4793c120a455c562768bdd6d753875f5dd6e0fafb27241cabbcb0004682"
+hash = "20119b3fb97992a775f526ebe1dbed2ec79322e590854c82837adb8047722d82"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "22ff48ac73d7ab7a259c0eb014c203a38ad0ed3e51039ff0bc61db40f23e47a6"
+hash = "891304e6a1bb40fc15b1dc53e74c0e4fd354d7378542c60476f60064d02bc3ca"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ba4baf53e6c362015d8a3989fd32ab3e822e81a0efee5ad0125fbcb601b9521"
+hash = "4150c3de6b53800f272de72f3a837516f77a35183a5b979ade7b08ee4b72c33f"
 metafile = true
 
 [[files]]
@@ -219,6 +219,16 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "1c34733124a0547e2262da006c2e907fc5a02af1098f67f8e975becc8e8ecb1d"
+metafile = true
+
+[[files]]
+file = "mods/paginated-advancements.pw.toml"
+hash = "6c4fd916eb19938ec233f7b0f14fdcfddbc298c78a9df07f8fa89677ac111bdc"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "a09f832b9434a79d4fb0b174eb862e234856ca6d2e0090b7b1c25a96781d6a61"
 metafile = true
 
 [[files]]
