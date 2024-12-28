@@ -21,4 +21,6 @@ curl --silent https://raw.githubusercontent.com/itzg/docker-minecraft-server/mas
         packwiz remove "$mod" 1>/dev/null
 done
 
+packwiz remove e4mc
+
 packwiz refresh
