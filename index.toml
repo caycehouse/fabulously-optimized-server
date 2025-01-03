@@ -112,6 +112,11 @@ hash = "759225faa85e3112ff935bba420bdde12ff766c848735e27a87920ae6ba61b4e"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "41ce2ceb6374c5db27705af6a8dae1fa82b9c522e6ba75dc1a0ebb8cc23f44d4"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "11f07916efe2d59bba63a861168dc5f90dd580d049b71820afeb65b382a2f70e"
 metafile = true
@@ -138,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4150c3de6b53800f272de72f3a837516f77a35183a5b979ade7b08ee4b72c33f"
+hash = "16e29f33c96073b1ab1a08973c963e6dca2c63b7b794c53dcb7c7c89fbf4d1ba"
 metafile = true
 
 [[files]]
@@ -192,6 +197,11 @@ hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6ac973d265dcf8b3e32cbb5c6f0fede8d48d7292084ae6575a529e40ed5bb4a6"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "aa034b0d700401e6911b3fc1ba82f12450da1ac487265c4c058558c935db2b21"
 metafile = true
@@ -223,12 +233,17 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a09f832b9434a79d4fb0b174eb862e234856ca6d2e0090b7b1c25a96781d6a61"
+hash = "ce8ed342c74fdda5f1285ae3612832f811e1376cb7ef9162d6c5ec60bfa8234d"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "3fa812a6abeb972631c7fa4e605c2ba7c3d61b426885fe1b04b36305aff6e2f3"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "0e50f1e2992c93549f52b2acd574e581b02aaca14e62cc193f850ca24b768092"
 metafile = true
 
 [[files]]
