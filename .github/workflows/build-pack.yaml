@@ -65,18 +65,18 @@ jobs:
           # Refresh packwiz metadata
           packwiz refresh
 
-      - name: Commit and Push Changes
+      - name: Check for Changes, Commit, and Tag
         run: |
-          git config user.name "codewarden-bot"
-          git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
-          git add .
-          if git diff --cached --quiet; then
+          git add -A
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "codewarden-bot"
+            git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
             git commit -m "Synced with upstream release $VERSION"
-            git tag -a "$VERSION" -m "$VERSION"
+            git tag -a "$VERSION" -m "Release $VERSION"
             git push origin "$VERSION"
             git push
           else
-            echo "No changes to commit or push."
+            echo "No changes detected, skipping commit and tag."
           fi
 
       - name: Generate Token
