@@ -21,13 +21,16 @@ jobs:
     name: Sync and Create Matching Release
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Dependencies
-        run: sudo apt-get update && sudo apt-get install -y jq wget
-
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+
+      - name: Download Packwiz
+        run: go install github.com/packwiz/packwiz@latest
 
       - name: Download and Process Release
         id: process-release
