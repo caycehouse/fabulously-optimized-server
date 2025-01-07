@@ -67,12 +67,17 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config user.name "codewarden-bot"
-          git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Synced with upstream release $VERSION" || echo "No changes to commit"
-          git tag -af $VERSION -m $VERSION
-          git push || echo "No changes to push"
+          if [ "$(git diff --name-only)" != "" ]; then
+            git config user.name "codewarden-bot"
+            git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "Synced with upstream release $VERSION"
+            git tag -a "$VERSION" -m "$VERSION"
+            git push origin "$VERSION"
+            git push
+          else
+            echo "No changes to commit or push."
+          fi
 
       - name: Generate Token
         uses: actions/create-github-app-token@v1
