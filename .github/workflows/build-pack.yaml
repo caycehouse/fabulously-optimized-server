@@ -15,8 +15,6 @@ on:
 env:
   # renovate: datasource=github-releases depName=Fabulously-Optimized/fabulously-optimized
   VERSION: "v6.5.0-alpha.6"
-  PACK_ZIP_URL: "https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/$VERSION/Fabulously.Optimized-$VERSION.zip"
-
 
 jobs:
   sync-release:
@@ -35,7 +33,7 @@ jobs:
         id: process-release
         run: |
           # Download the pack zip file
-          wget -O FO.zip "$PACK_ZIP_URL"
+          wget -O FO.zip "https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/$VERSION/Fabulously.Optimized-$VERSION.zip"
 
           # Remove old files
           rm -r mods/ || true
