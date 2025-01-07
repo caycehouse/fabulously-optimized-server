@@ -70,8 +70,8 @@ jobs:
           git config user.name "codewarden-bot"
           git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Synced with upstream release $VERSION"
-          git push
+          git commit -m "Synced with upstream release $VERSION" || echo "No changes to commit"
+          git push || echo "No changes to push"
 
       - name: Create Matching Release
         uses: actions/create-release@v1
