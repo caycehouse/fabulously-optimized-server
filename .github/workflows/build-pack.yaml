@@ -14,7 +14,7 @@ on:
 
 env:
   # renovate: datasource=github-releases depName=Fabulously-Optimized/fabulously-optimized
-  VERSION: v6.5.0-alpha.6
+  VERSION: v6.5.0-alpha.7
 
 jobs:
   sync-release:
