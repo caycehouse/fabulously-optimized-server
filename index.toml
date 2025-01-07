@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/entity_texture_features.json"
-hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e0ae4bc3511890766a64b39c810971bf5448be3da8f68e2234dec5e1c4c947b0"
+hash = "20119b3fb97992a775f526ebe1dbed2ec79322e590854c82837adb8047722d82"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d2bafcddcefb2c2c6a4ce0d620f9845f4392b72de8f641f0a115c4d60d512bf5"
+hash = "891304e6a1bb40fc15b1dc53e74c0e4fd354d7378542c60476f60064d02bc3ca"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -50,7 +46,7 @@ hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
+hash = "c27c2904c6857c9429afe2fb0f516a16a7f520c047a26c9c179d44ec133400ad"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -98,16 +94,11 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "74095f4f35241c22e42d51ea9c38811126e901a1c89c697b84d4e3c1eacd8ec9"
+hash = "b4bd6b6a9cc4d2d821c176442b399139a2aa42581b2e07be77815397a917931d"
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "ca86c0a6572b7e37bad85e9484095c75096fa064d28fe03fa6f0e1e9a55b8f15"
-metafile = true
-
-[[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "410b3f085102b7443d8a95883f125512788a5e3a1049f52a8b5bbdf6c0717819"
 metafile = true
 
 [[files]]
@@ -212,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "3cf8851b35586602cb902f7bf5484901e0dbca7b2ba2db7fbdf9ab2891f18651"
+hash = "aa034b0d700401e6911b3fc1ba82f12450da1ac487265c4c058558c935db2b21"
 metafile = true
 
 [[files]]
@@ -222,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "dfb6ad6f40d9c85d307f1aa71d2834dd45e09b7c65b1989e45af373e651a5569"
+hash = "f7e79a605e9bc9a30168b3eaa9a669d26e26669c58a5682de6c7f182cc838cfa"
 metafile = true
 
 [[files]]
@@ -242,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "214b9209a68ced15e60554abeeb3c6d1394a2775a89519c99a4c6d93051f4b37"
+hash = "ce8ed342c74fdda5f1285ae3612832f811e1376cb7ef9162d6c5ec60bfa8234d"
 metafile = true
 
 [[files]]
