@@ -4,6 +4,6 @@
     ":skipStatusChecks",
     "github>caycehouse/renovate-config",
     "github>caycehouse/renovate-config:autoMerge.json5",
-    "github>caycehouse/home-ops//.github/renovate/packageRules.json5"
+    "github>caycehouse/fabulously-optimized-server//.github/renovate/packageRules.json5"
   ]
 }
