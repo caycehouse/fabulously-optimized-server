@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "description": ["Auto-merge GitHub Releases for fabulously-optimized"],
+      "matchDatasources": ["github-releases"],
+      "matchPackagePatterns": ["Fabulously-Optimized/fabulously-optimized"],
+      "automerge": true,
+      "automergeType": "branch"
+    }
+  ]
+}
