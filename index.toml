@@ -97,6 +97,14 @@ file = "config/yosbr/options.txt"
 hash = "b4bd6b6a9cc4d2d821c176442b399139a2aa42581b2e07be77815397a917931d"
 
 [[files]]
+file = "go.mod"
+hash = "6ede728a5b9f3fe495e4f89ae4fb6f4334eeab4306088928ad6c332e32d15bab"
+
+[[files]]
+file = "go.sum"
+hash = "f4617f17a691d853bc549912903907fe658844da3683b428da2499954710ef81"
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "ca86c0a6572b7e37bad85e9484095c75096fa064d28fe03fa6f0e1e9a55b8f15"
 metafile = true
