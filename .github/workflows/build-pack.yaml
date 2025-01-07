@@ -13,6 +13,7 @@ on:
       - main
 
 env:
+  UPSTREAM_REPO: Fabulously-Optimized/fabulously-optimized
   # renovate: datasource=github-releases depName=Fabulously-Optimized/fabulously-optimized
   VERSION: v6.5.0-alpha.7
 
@@ -37,7 +38,7 @@ jobs:
           VERSION_STRIPPED="${VERSION#v}"
 
           # Download the pack zip file
-          wget -O FO.zip "https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/$VERSION/Fabulously.Optimized-$VERSION_STRIPPED.zip"
+          wget -O FO.zip "https://github.com/$UPSTREAM_REPO/releases/download/$VERSION/Fabulously.Optimized-$VERSION_STRIPPED.zip"
 
           # Remove old files
           rm -r mods/ || true
@@ -85,9 +86,22 @@ jobs:
           app-id: "${{ secrets.BOT_APP_ID }}"
           private-key: "${{ secrets.BOT_APP_PRIVATE_KEY }}"
 
+      - name: Get Release Description from Upstream
+        id: get-release
+        run: |
+          # Use GitHub API to get the release description
+          RELEASE_URL="https://api.github.com/repos/$UPSTREAM_REPO/releases/tags/$VERSION"
+          RELEASE_NAME=$(curl -s $RELEASE_URL | jq -r '.name')
+          RELEASE_DESCRIPTION=$(curl -s $RELEASE_URL | jq -r '.body')
+
+          echo "release_description=$RELEASE_DESCRIPTION" >> $GITHUB_ENV
+          echo "release_name=$RELEASE_NAME" >> $GITHUB_ENV
+
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
+          body: ${{ env.release_description }}
+          releaseName: ${{ env.release_name }}
           tag: "${{ env.VERSION }}"
           token: "${{ steps.app-token.outputs.token }}"
