@@ -94,4 +94,3 @@ jobs:
         with:
           tag: "${{ env.VERSION }}"
           token: "${{ steps.app-token.outputs.token }}"
-s
