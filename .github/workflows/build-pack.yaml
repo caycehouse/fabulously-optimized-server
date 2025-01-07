@@ -1,0 +1,80 @@
+---
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+name: Scheduled Release
+
+concurrency:
+  group: pack-release
+  cancel-in-progress: false
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+env:
+  # renovate: datasource=github-releases depName=Fabulously-Optimized/fabulously-optimized
+  VERSION: "v6.5.0-alpha.6"
+  PACK_ZIP_URL: "https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/${{ env.VERSION }}/Fabulously.Optimized-${{ env.VERSION }}.zip"
+
+
+jobs:
+  sync-release:
+    name: Sync and Create Matching Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq wget
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download and Process Release
+        id: process-release
+        run: |
+          # Download the pack zip file
+          wget -O FO.zip "$PACK_ZIP_URL"
+
+          # Remove old files
+          rm -r mods/ || true
+          rm -r config/ || true
+          rm index.toml || true
+          rm pack.toml || true
+
+          # Import the new pack
+          packwiz cf import FO.zip
+
+          # Cleanup
+          rm FO.zip
+          rm -r resourcepacks/ || true
+
+          # Remove mods based on exclusion list
+          curl --silent "https://raw.githubusercontent.com/itzg/docker-minecraft-server/master/files/cf-exclude-include.json" |
+          jq -r '.globalExcludes[]' | while read -r mod; do
+            echo "Removing $mod if exists..."
+            packwiz remove "$mod" 1>/dev/null
+          done
+
+          # Remove e4mc mod
+          packwiz remove e4mc
+
+          # Refresh packwiz metadata
+          packwiz refresh
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "codewarden-bot"
+          git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Synced with upstream release ${{ env.VERSION }}"
+          git push
+
+      - name: Create Matching Release
+        uses: actions/create-release@v1
+        with:
+          tag_name: "${{ env.VERSION }}"
+          release_name: "Release ${{ env.VERSION }}"
+          draft: false
+          prerelease: false
