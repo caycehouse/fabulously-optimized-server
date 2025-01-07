@@ -92,5 +92,6 @@ jobs:
         if: steps.changes.outcome == 'success'
         uses: ncipollo/release-action@v1
         with:
+          allowUpdates: true
           tag: "${{ env.VERSION }}"
           token: "${{ steps.app-token.outputs.token }}"
