@@ -65,23 +65,16 @@ jobs:
           # Refresh packwiz metadata
           packwiz refresh
 
-      - name: Check for Changes
-        id: changes
-        run: |
-          git diff --exit-code
-        continue-on-error: true
-
       - name: Commit and Push Changes
-        if: steps.changes.outcome == 'failure'
         run: |
           git config user.name "codewarden-bot"
           git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Synced with upstream release $VERSION"
-          git push
+          git commit -m "Synced with upstream release $VERSION" || echo "No changes to commit"
+          git tag -af $VERSION -m $VERSION
+          git push || echo "No changes to push"
 
       - name: Generate Token
-        if: steps.changes.outcome == 'failure'
         uses: actions/create-github-app-token@v1
         id: app-token
         with:
@@ -89,7 +82,6 @@ jobs:
           private-key: "${{ secrets.BOT_APP_PRIVATE_KEY }}"
 
       - name: Create Release
-        if: steps.changes.outcome == 'failure'
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
