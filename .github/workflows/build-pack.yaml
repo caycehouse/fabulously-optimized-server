@@ -73,7 +73,7 @@ jobs:
             git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
             git commit -m "Synced with upstream release $VERSION"
             git tag -f "$VERSION" -m "Release $VERSION"
-            git push --force origin "$VERSION"
+            git push --force origin main --tags
           else
             echo "No changes detected, skipping commit and tag."
           fi
