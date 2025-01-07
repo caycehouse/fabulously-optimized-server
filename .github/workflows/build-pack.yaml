@@ -15,7 +15,7 @@ on:
 env:
   UPSTREAM_REPO: Fabulously-Optimized/fabulously-optimized
   # renovate: datasource=github-releases depName=Fabulously-Optimized/fabulously-optimized
-  VERSION: v6.5.0-alpha.7
+  VERSION: v6.5.0-alpha.6
 
 jobs:
   sync-release:
@@ -93,7 +93,7 @@ jobs:
           RELEASE_URL="https://api.github.com/repos/$UPSTREAM_REPO/releases/tags/$VERSION"
           RELEASE_DATA=$(curl -s "$RELEASE_URL")
           RELEASE_DESCRIPTION=$(echo "$RELEASE_DATA" | jq -r '.body')
-          RELEASE_NAME=$(curl -s $RELEASE_DATA | jq -r '.name')
+          RELEASE_NAME=$(echo "$RELEASE_DATA" | jq -r '.name')
 
           echo "release_description<<EOF" >> $GITHUB_ENV
           echo "$RELEASE_DESCRIPTION" >> $GITHUB_ENV
