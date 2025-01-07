@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/CODEOWNERS"
-hash = "0640166296867ac7a8e8fa5de14a644cd1322d1e19686ff442d752ec9ad7a68f"
-
-[[files]]
-file = ".github/renovate.json5"
-hash = "4dceecdeda2e801c5737664976863bfca32eef8709d40da5d404558b7eae2c4d"
-
-[[files]]
-file = ".github/workflows/build-pack.yaml"
-hash = "6d76a3bc74ec063e8631c1079fb6e76632242186424673e928198a10b448e634"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "20119b3fb97992a775f526ebe1dbed2ec79322e590854c82837adb8047722d82"
 
