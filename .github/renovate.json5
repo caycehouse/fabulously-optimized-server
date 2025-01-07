@@ -3,6 +3,7 @@
   "extends": [
     ":skipStatusChecks",
     "github>caycehouse/renovate-config",
-    "github>caycehouse/renovate-config:autoMerge.json5"
+    "github>caycehouse/renovate-config:autoMerge.json5",
+    "github>onedr0p/home-ops//.github/renovate/packageRules.json5"
   ]
 }
