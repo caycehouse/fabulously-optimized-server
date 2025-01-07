@@ -92,10 +92,12 @@ jobs:
           # Use GitHub API to get the release description
           RELEASE_URL="https://api.github.com/repos/$UPSTREAM_REPO/releases/tags/$VERSION"
           RELEASE_DATA=$(curl -s "$RELEASE_URL")
-          RELEASE_DESCRIPTION=$(echo "$RELEASE_DATA" | jq -r '.body | @sh')
+          RELEASE_DESCRIPTION=$(echo "$RELEASE_DATA" | jq -r '.body')
           RELEASE_NAME=$(curl -s $RELEASE_DATA | jq -r '.name')
 
-          echo "release_description=$RELEASE_DESCRIPTION" >> $GITHUB_ENV
+          echo "release_description<<EOF" >> $GITHUB_ENV
+          echo "$RELEASE_DESCRIPTION" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
           echo "release_name=$RELEASE_NAME" >> $GITHUB_ENV
 
       - name: Create Release
