@@ -23,13 +23,11 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Go
         uses: actions/setup-go@v5
 
-      - name: Download Packwiz
+      - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
 
       - name: Download and Process Release
@@ -58,7 +56,7 @@ jobs:
           curl --silent "https://raw.githubusercontent.com/itzg/docker-minecraft-server/master/files/cf-exclude-include.json" |
           jq -r '.globalExcludes[]' | while read -r mod; do
             echo "Removing $mod if exists..."
-            packwiz remove "$mod" 1>/dev/null
+            packwiz remove "$mod" 1>/dev/null || true
           done
 
           # Remove e4mc mod
