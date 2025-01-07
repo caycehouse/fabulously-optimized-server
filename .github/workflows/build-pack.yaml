@@ -65,7 +65,14 @@ jobs:
           # Refresh packwiz metadata
           packwiz refresh
 
+      - name: Check for Changes
+        id: changes
+        run: |
+          git diff --exit-code || echo "Changes detected"
+        continue-on-error: true
+
       - name: Commit and Push Changes
+        if: steps.changes.outcome == 'success'
         run: |
           git config user.name "codewarden-bot"
           git config user.email "168740723+codewarden-bot[bot]@users.noreply.github.com"
@@ -74,6 +81,7 @@ jobs:
           git push || echo "No changes to push"
 
       - name: Generate Token
+        if: steps.changes.outcome == 'success'
         uses: actions/create-github-app-token@v1
         id: app-token
         with:
@@ -81,8 +89,8 @@ jobs:
           private-key: "${{ secrets.BOT_APP_PRIVATE_KEY }}"
 
       - name: Create Release
+        if: steps.changes.outcome == 'success'
         uses: ncipollo/release-action@v1
         with:
-          generateReleaseNotes: true
-          tag: "$VERSION"
+          tag: "${{ env.VERSION }}"
           token: "${{ steps.app-token.outputs.token }}"
