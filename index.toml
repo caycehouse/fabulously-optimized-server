@@ -6,11 +6,11 @@ hash = "1ad1403df783366f9eb9495435cf91b477f97dc894a8280e65248f27428fced1"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "810a1f272f638a2da0de7247a686989c1ad5f227a8db3fe5c592183661467849"
+hash = "844287c47a44e65c142bdc9a1c2e1bec9fc5785997e798208d6de4785d5f0d00"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3d6b4a205b7fc68589a0f8459e7c72f627452aefdd7fc5e5e796f6b3bbab76a1"
+hash = "56a0751a55f2ba08664340fc67bd68617c3ab77403f08506359f521dad04422e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "ac1245869a24854aa2d4d95b7119c8df6a07b1de2cd8956013af0c56f77a047d"
+hash = "a51a3f5e4deedb030648753d7e2dbaa0fe2061e672f51abf61cd84d84331a10b"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "69202a8809433e56ed186bac33eb9ee21efc88d19d07fd4fc72c7290a1c419ef"
+hash = "a76bc5a4c6b8b90b0ecf7d64dc61b34891dec9bde2c9e8a40c61c403ccb61dc3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "070f3b65efd84e7d28e84d819e94f1d886ebb9df0d2c8e2e5acc168966a34f67"
+hash = "5b9d1e1ec60004c0bd38a134b7b8987583250200238abe84180b1f5bea839eae"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0ea62435108179218ed0de225afce2cfc463795ec3d61be6c92cbef552d8945a"
+hash = "9255b49c8f675ef70f1ed60eec25dd74193d66910a2201c4316b397c4052fa70"
 metafile = true
 
 [[files]]
