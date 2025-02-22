@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4b6b1d589401ed38801cae588bc36d4da0f46edfbc18e667140dbd0520fcc7e8"
+hash = "9c24f7141a2b463e798c8ef13a1187776e41be2e2bbf38d302babfeb28d74ed1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4112435d92aed4ac31bc71af6a1dd8e4f696513f4276c0c2ec849d99439c26e9"
+hash = "324deeb6dd1875038301ce09be7f54112ebb9dea85066b03c681aa23958a1b70"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f2248b549c0c499e0d29e1f1a822cf8639799c445adb85387cc40e57fc8f60e0"
+hash = "a896e7a22ead9d7ecdd5401be8e528279e57844632e4c1b125b2941f4a20c44a"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b8bd15eb165138ed3547988cb4d80ea9ecc4108ba64f255dc92135013fba1a1f"
+hash = "31b0a063c3052b68c11130ad864a2c24ea29261e43df0f69cc11f70ab75eff8a"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58be53eb2e93b7be20fe98475e27ef97ba729c608578fe89682562c30787fcdc"
+hash = "10d4823bf19a5674d0f43301bd46e2913abd3c5408990c83fe1874821dd413a4"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e2ebd106e025f64d670b7cdc9d64a9539f39984a505a0ab18a04dd001b142c73"
+hash = "631bee2b9cf4bdc733e6a35ea73b0dc83fe76734c48c10d169132af1c8029304"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "0e50f1e2992c93549f52b2acd574e581b02aaca14e62cc193f850ca24b768092"
+hash = "9652ab3e3e46e2a472c2e3794939560effdb38ac8436c1dc7f318ad5485b37b1"
 metafile = true
 
 [[files]]
