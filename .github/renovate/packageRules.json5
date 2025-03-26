@@ -5,7 +5,7 @@
       "description": ["Loose versioning for non-semver github-release"],
       "matchDatasources": ["github-releases"],
       "matchPackagePatterns": ["Fabulously-Optimized/fabulously-optimized"],
-      "versioning": "regex:^v(?<major>\\d+)\\.(?<minor>\\d+)\.(?<patch>\\d+)-?(?<build>[^.-]+)?\\.?(?<revision>\\d+)?$"
+      "versioning": "regex:^v(?<major>\\d+)\.(?<minor>\\d+)\.(?<patch>\\d+)-?(?<prerelease>.+)?$"
     }
   ]
 }
