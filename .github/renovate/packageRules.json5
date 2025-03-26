@@ -3,8 +3,10 @@
   "packageRules": [
     {
       "description": ["Loose versioning for non-semver github-release"],
+      "ignoreUnstable": false,
       "matchDatasources": ["github-releases"],
       "matchPackagePatterns": ["Fabulously-Optimized/fabulously-optimized"],
+      "respectLatest": false,
       "versioning": "regex:^v(?<major>\\d+)\.(?<minor>\\d+)\.(?<patch>\\d+)-?(?<prerelease>.+)?$"
     }
   ]
