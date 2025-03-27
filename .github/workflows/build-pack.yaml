@@ -55,13 +55,10 @@ jobs:
 
           # Remove mods based on exclusion list
           curl --silent "https://raw.githubusercontent.com/itzg/docker-minecraft-server/master/files/cf-exclude-include.json" |
-          jq -r '.globalExcludes[]' | while read -r mod; do
+          jq -r '.globalExcludes[]' | cat - <(echo "e4mc") | while read -r mod; do
             echo "Removing $mod if exists..."
             packwiz remove "$mod" 1>/dev/null || true
           done
-
-          # Remove e4mc mod
-          packwiz remove e4mc
 
           # Refresh packwiz metadata
           packwiz refresh
