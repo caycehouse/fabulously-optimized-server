@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "690760fe55504dbba215b6cd8084e030a2d7085dcfce89bd96b004d308d60cf7"
+hash = "f35f73bf2420bf352f6789e4658765d6c2f8bc6ad3687ffa19dfb56036433988"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b727d8c70e0bd64631c59108752be12d930d3317adbef67ea7fb42afb3a17e6d"
+hash = "ce134304d8d2b2846a6d142328022c1c4c843010606b62234fb3df06cfa22fcf"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1709e90f9e061cbdfc40b2dd1e40d82cbd1718f0fcb4a679ef69b4ff5911856a"
+hash = "6f156f97455284eefbc43e907ae46fef1cb6c5d8a470dd55f45dc5a88fc81113"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5bd594823e45e767bf5eee6957fa0515345558402a458234f83580d0e6d01f9c"
+hash = "d2911a01cf69b6e08412bb220a29b1639d2e871e2bc39d6845a443cbe2ae7eb5"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8072c1882a3c3d5be90347e4547b88889ffa84c60ff3e427dce4d487df443985"
+hash = "0c94cbc1c3b8fd22640b944f0afb9f6210d78aeb11d6c3d1540088a9af1448fe"
 metafile = true
 
 [[files]]
@@ -225,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "76a79e2bb8cff1ef144a7d2ccb50f2596684d3ca786de8bb8416ec63d7a2b2f3"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "3d0f5697711d534b6883994cfc82c3fb199c3c69c95ff541ff3da47c3a1d6b2f"
 metafile = true
 
 [[files]]
