@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f35f73bf2420bf352f6789e4658765d6c2f8bc6ad3687ffa19dfb56036433988"
+hash = "0cbb0a5f45d290b327ae095d02f6aedf12b91b83e9adecf06e00a76d266baac5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ce134304d8d2b2846a6d142328022c1c4c843010606b62234fb3df06cfa22fcf"
+hash = "cd54e86469ea96b3878851d8dacd7dc55dbe884bb82cf512c82410c51922957f"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -70,7 +70,7 @@ hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "772436d8cf423d9274839b28a8c8372c96eb1b7d5870ce0346686e9b0d70e573"
+hash = "010db0b80e2020a61272588e82c39aa27a0a4882ce3c5ac0e549c25eabdf460c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -90,7 +90,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0476c0e5f523eadc055d23bc8027583d060ff06bb57aafde9b5aa150df7f7a33"
+hash = "c6cd415b6c81b72a29e45bc0c9788c95adc839a1e84fb9b6fb9a77eea8d2a1b0"
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
@@ -110,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "287209b1b1b7c27f11f59ef3eda5fb5f4431aa6b51701870a426c0b39da74fce"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "1165355580ac183fb3c6ac0b34f8600a34312d2e64118c83602b7b85b95f93ba"
 metafile = true
 
 [[files]]
@@ -139,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d2911a01cf69b6e08412bb220a29b1639d2e871e2bc39d6845a443cbe2ae7eb5"
+hash = "5a06dc1e2246053c553a2686a50dc4e51d6683053aee818e190a6779960a4f59"
 metafile = true
 
 [[files]]
