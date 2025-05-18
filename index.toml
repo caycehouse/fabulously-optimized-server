@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ae2f5b0e79b228e7e6b65487a264189714c1d62990cc02ef8338e5d09f60bc41"
+hash = "bf9116018ee8e4798f51b250bb00f535b049c46c5a167d9c4695634bd362ff2d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "19e83fcce18b44a730d51ca85d6306cbc1d48127c1c0e2148fd5138973951e30"
+hash = "32e655b1e4081fb1d0faefd83b1907cfd5c87fbfba48552f633474ade7b223b2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -38,7 +42,7 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -90,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c6cd415b6c81b72a29e45bc0c9788c95adc839a1e84fb9b6fb9a77eea8d2a1b0"
+hash = "15a0832cf3c6b8779e872a350d81ccf89bc38c4035a299994cf9c5450ca4bad2"
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
@@ -100,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "7cf0c33be0e1ce36a355d1dbcc2071d31d9fabbe90b03488c327585dcb0fed62"
+metafile = true
+
+[[files]]
+file = "mods/bigshot.pw.toml"
+hash = "eede1478d303732da6981595b18679bee7dd793c6d09185d8fa7e675cb9e27ab"
 metafile = true
 
 [[files]]
@@ -144,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d603d3af57d7425dd7abf0edea73a792d7d6809e41b8989f4f4a35152bb84c71"
+hash = "92c362a4e1e0bd5addf47fa90a54591acd0cc314063225b193f5f03df35753c5"
 metafile = true
 
 [[files]]
@@ -224,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0826a349e141fd40fdbba7e8396e7438922cbac2280bd6dcdd9cb50d41c81c91"
+hash = "3c25fcd76154fe911e654e565bb4bc6778dbf74b360d7c3e58a35f6f82a7e402"
 metafile = true
 
 [[files]]
@@ -234,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "3d0f5697711d534b6883994cfc82c3fb199c3c69c95ff541ff3da47c3a1d6b2f"
+hash = "80b76c60b4db627674a5ee72927323fd7cff9977ec36f553e52f859b7afce5c0"
 metafile = true
 
 [[files]]
