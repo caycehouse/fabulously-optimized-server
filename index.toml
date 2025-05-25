@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bf9116018ee8e4798f51b250bb00f535b049c46c5a167d9c4695634bd362ff2d"
+hash = "e0a82343b9072142cbaa0abb7a81fcad4e530c25d64a05af3a9a6b89305d8419"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "32e655b1e4081fb1d0faefd83b1907cfd5c87fbfba48552f633474ade7b223b2"
+hash = "0a217809dbe0e8cd0c91c5c36fdb9d52c654f7cd4189069c80e05f8718df989b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -103,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "7cf0c33be0e1ce36a355d1dbcc2071d31d9fabbe90b03488c327585dcb0fed62"
+hash = "b707178eec094c3e6ba569818a746a73f54dd50c73e75fd4cf720336e151cf28"
 metafile = true
 
 [[files]]
@@ -148,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7ec73c9e89a85dedc04937e43491d104efb73a98fd5aa4f0bdb5e47087f46309"
+hash = "4c65387d6ba95c771cb148278d000909f65f668de713bcf4a5db7a6d34138540"
 metafile = true
 
 [[files]]
@@ -173,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "81df5b403806c4f2446d782b248d629e82d4182ba0f7335d653804869f855619"
+hash = "9a63f95326fcc8f26dd57b57890b1f62c94bf8cf8590c406ffbb7d9bae29b839"
 metafile = true
 
 [[files]]
