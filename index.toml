@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e0a82343b9072142cbaa0abb7a81fcad4e530c25d64a05af3a9a6b89305d8419"
+hash = "fcd8663a66b8140fe8e7554326a841fe00c88517ae5842497063fed20457470b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0a217809dbe0e8cd0c91c5c36fdb9d52c654f7cd4189069c80e05f8718df989b"
+hash = "6babc390e01830c2ff7da04c7f5ecacdc6861f06104e06b2a12657eef39764fb"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -67,6 +67,10 @@ hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -144,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4c65387d6ba95c771cb148278d000909f65f668de713bcf4a5db7a6d34138540"
+hash = "f3c9cca5fc26c4aa1c5d5e74bc76811504995f2a6c9d78fb9cfe46d78b345cba"
 metafile = true
 
 [[files]]
@@ -169,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9a63f95326fcc8f26dd57b57890b1f62c94bf8cf8590c406ffbb7d9bae29b839"
+hash = "a4bb14a1fa7e05fb8105769df36e04d1214624350f68c1c2e2de012aabc80e33"
 metafile = true
 
 [[files]]
