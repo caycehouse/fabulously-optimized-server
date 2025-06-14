@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "fcd8663a66b8140fe8e7554326a841fe00c88517ae5842497063fed20457470b"
+hash = "73ae9ee822bebd8b4fa538ed402e5f1474eb33191f0e29f18d26629401974796"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6babc390e01830c2ff7da04c7f5ecacdc6861f06104e06b2a12657eef39764fb"
+hash = "a6e59928fc0342945dc5318ed2b10862f12a3caaa883dc4f485fccab93862b96"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f3c9cca5fc26c4aa1c5d5e74bc76811504995f2a6c9d78fb9cfe46d78b345cba"
+hash = "29cc92e2f4586afd14ecb783779299b148c84f6e81b2e3cd346e8537e289b2be"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "0c94cbc1c3b8fd22640b944f0afb9f6210d78aeb11d6c3d1540088a9af1448fe"
+hash = "21a66818f129e8e0c72989c4c2b8f0d10f99ebdec50831e27f5b565c6fb357a5"
 metafile = true
 
 [[files]]
