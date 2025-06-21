@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d9ccc21fe1b91756fda61127b74aad7120facb34c8c129433c55ee1df17eab33"
+hash = "a53cae50983c00f7ae685314b07b441bf132b59a2800dc0a5c4cc03222496967"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "deb7155b1be2354dd55f6e9999ed1cde1bed0cbfb22996dad6eb56b7890a2701"
+hash = "7652d390d19f79121766f5c7c01f784eea7a19b26a270d8081bdc5b23ce5e6cd"
 
 [[files]]
 file = "config/modmenu.json"
@@ -31,10 +31,6 @@ hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
-
-[[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -108,7 +104,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7ae35f992d9109ecdbb24ce496ee48f68fda9bfd2d189bbfeaaa48f6a328ddaa"
+hash = "7621c38bf5eb90cc7458a78eeab30088bae4bf9f29f72bbc2a2a7c37fc06b551"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "41fcddbfd54f62b4762284e723fb9015d9aa522582da009464bbc75983397645"
 metafile = true
 
 [[files]]
@@ -128,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3f4309717c103fdc5ad3b6bea20ef093c19c06710870c0679e9646865b88ce96"
+hash = "1e92b9766d33a0e9947616df5c5fc03411cd036f71d4860ad7ce02056b546c31"
 metafile = true
 
 [[files]]
@@ -148,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a53bf446dde33c416b529cd28f2ed4bdf4d2db3865b892189f13e03ff3624c90"
+hash = "765e5dd30828fba0314482d0653f472fb95e0acea931d0cb0c2c54cf92e41f2c"
 metafile = true
 
 [[files]]
@@ -178,12 +179,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "1cf028b8f7cfaf54e0f72e658bcf6d5c5aab742b1fcb2f71a70a5997d19650e5"
+hash = "f5e83da1cf19d3bbb2340bc8fe713975efde3ca3d141c7731888e6e26b6ac8e3"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "894418c1146ab9a8086f6c9eadda0aad36c4fe2219e2199e4307f9273fed2dac"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "a3ab786f95730b1f4cd5dd9ca495865349b578f7c01539c26afb42b04a07b3bc"
 metafile = true
 
 [[files]]
@@ -198,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "e5e5d3a7af1ca853585cd0eaa5cc05eeba70eaec78e5d3c8f6f8015c779bbde4"
+hash = "ca77ce40de8c648ddd61e5b4fd434fab8cf305f36c923fe993cb6ed4e112d46e"
 metafile = true
 
 [[files]]
@@ -209,4 +215,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "d71939755ab155840e4b6e33ba1e48edd94790f48e4e1f8514121aa91fb6031d"
 metafile = true

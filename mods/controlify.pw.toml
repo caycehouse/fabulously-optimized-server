@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "controlify-2.2.1+1.21.6-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54da894587cd2873525167c4d7756590b335e753"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6678099
+project-id = 835847
