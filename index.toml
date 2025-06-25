@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a53cae50983c00f7ae685314b07b441bf132b59a2800dc0a5c4cc03222496967"
+hash = "64a74a532863d208e95cde999b67da0761619ccc4a324855f17801b26a402e6f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7652d390d19f79121766f5c7c01f784eea7a19b26a270d8081bdc5b23ce5e6cd"
+hash = "87badad648b06bf4049a872361fc60368d3e12f3de5e177c166623bba0aa3e45"
 
 [[files]]
 file = "config/modmenu.json"
@@ -93,6 +93,16 @@ file = "config/yosbr/options.txt"
 hash = "fdcdb8c6cd1528fa4415533a93ca16cab25b911c9a9fbd5868efd2b2df5bba24"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "e4871feb4abc954731ceb980476dd7500357f689daf5d9e4065c0f70aad18d03"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "a8321c6d297c9a266a82600942a2b329f374abb9f3fdd0810499a2f26a082b2d"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "b2077e16374e43a8cc3148ffa1688427346eff9dd380871f93395d1f21852610"
 metafile = true
@@ -129,12 +139,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1e92b9766d33a0e9947616df5c5fc03411cd036f71d4860ad7ce02056b546c31"
+hash = "7bb4797a57fe0c13be0ad7d76cae176436e7ac05b20cd91bdd1bc2965f5cd936"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "92c362a4e1e0bd5addf47fa90a54591acd0cc314063225b193f5f03df35753c5"
+hash = "e79d224bd664cd189049b6a91b677e2ea6cbc6e27da026c44d73b66cca4d8dc0"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "cdf5789bfb1d68fd1cfe6ed914ef098e46bc777fda3a42b3e62a2fbe2656315e"
 metafile = true
 
 [[files]]
@@ -144,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "b1c0c70404b3c00749ce24fe6cf12ca11f1743f090c2037d515078ca080beb0e"
+hash = "1f3346e7abe25e0854d6d93ceccd46207e1f96222fc0b385a9323a42314bb0cf"
 metafile = true
 
 [[files]]
