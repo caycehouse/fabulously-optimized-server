@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "64a74a532863d208e95cde999b67da0761619ccc4a324855f17801b26a402e6f"
+hash = "3afe67dc180f57adc4ee86a6db91974ede94857826663168f7a3b2ac5162b100"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "87badad648b06bf4049a872361fc60368d3e12f3de5e177c166623bba0aa3e45"
+hash = "ada585e1ba6d866db2315896840300e240b3eaea272ab1c2a9ec5c56a7cc500b"
 
 [[files]]
 file = "config/modmenu.json"
@@ -134,17 +134,22 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e8e6bd04cb57f9931a5637c2354af9e0edf8b79270c47536945e2eaa61e46746"
+hash = "5cf3e744547bec544b314170ef2a7845848f595399ce22845d1b7363914fd35d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7bb4797a57fe0c13be0ad7d76cae176436e7ac05b20cd91bdd1bc2965f5cd936"
+hash = "2e398e0ab322ae92e06ec9a5ee43756631b1cbff2dd87dc93cbf82e60849bd5c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "e79d224bd664cd189049b6a91b677e2ea6cbc6e27da026c44d73b66cca4d8dc0"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "193d5ce7c590e6c06e55149bb95318d6298b87a06d0e2645dadebf0efb9e69ca"
 metafile = true
 
 [[files]]
@@ -205,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "a3ab786f95730b1f4cd5dd9ca495865349b578f7c01539c26afb42b04a07b3bc"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "eee69e7fa344cd9bb40fa6d02414305a59defba9ff2eb7d133df2ec1762efb99"
 metafile = true
 
 [[files]]
