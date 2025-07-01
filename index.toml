@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b2d1c267614ef9e0fd47d24713c9599ce1154645fccf9edde4328269f6f5e3b6"
+hash = "f1eff7bae7802ba0ffe841078b0f1fa2e660d6ce977fae62e22e066b57218e14"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4644e3e913461d0d0e6a762d37ac1f7bc31b3c48397ff9b0cd5883b4e279ee02"
+hash = "4a9c6a6a730662867f154af519cad5e6649630a3e3df5883ff4769eb6612d997"
 
 [[files]]
 file = "config/modmenu.json"
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "a4f8c0dcad7e8b544b9da4e333880a4bae1701a3a06a7bdc8d85d12cae3276de"
+hash = "765ce35cb145201e90ed21da298b5f95466c170d03e16e1054a6d2b07e16dd91"
 metafile = true
 
 [[files]]
@@ -164,12 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "1f3346e7abe25e0854d6d93ceccd46207e1f96222fc0b385a9323a42314bb0cf"
+hash = "21052c0adce37ff045717e0340dcc9f8973f6caf5ef5a119d0f32b37d4fdb9a0"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "765e5dd30828fba0314482d0653f472fb95e0acea931d0cb0c2c54cf92e41f2c"
+hash = "eae1e4d56f9109ae76e1489f060904791e1f5539701db2520f14cabd32ff97b5"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d89a23768e0e3e66d2e5f985f5589570cfa2f05c79a37663f0d8475d14221925"
+hash = "c7615a718c4db7c8bad89d181e1d9a1e5f8a534bd1dc95c77e26b0af9c34c18a"
 metafile = true
 
 [[files]]
