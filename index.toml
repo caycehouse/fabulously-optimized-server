@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f1eff7bae7802ba0ffe841078b0f1fa2e660d6ce977fae62e22e066b57218e14"
+hash = "972ca096408ba016179edb6f903d69d5416d869a548831f0882925944ec7fcfa"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4a9c6a6a730662867f154af519cad5e6649630a3e3df5883ff4769eb6612d997"
+hash = "92a97e9ce3f5f74853b57db6193361340a1b508aad541ef1a5062a5427dddd99"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "56e85c53f4097e9c662c097f2b0b4c1a22bdb550bb80c69a58904dcf6728d139"
+hash = "3d5acd7b609d9ad0a431862bdb518842e364c3cd32cf913bed753fd6ba664c0e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "44b614705c7cbb8b40dd585794bd3732f31421318c6b7bcc3df8ac52a2b580c3"
+hash = "ceb7bef840f2478458ce60fcb00c147fff73bcc5476010e40a5dfb12a20c4692"
 metafile = true
 
 [[files]]
@@ -214,12 +214,17 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "eee69e7fa344cd9bb40fa6d02414305a59defba9ff2eb7d133df2ec1762efb99"
+hash = "48019a15b7ead716f4a51848c04fe913a58e5b15d2fe57b38d645a25704aa7fd"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "d862b5953efa9f26622fdc72e7be2642560521ce09cd5324041985db886854c2"
+metafile = true
+
+[[files]]
+file = "mods/paginated-advancements.pw.toml"
+hash = "86fdb4b5144dd04fb3b21746e30581c2cf968c79649cd7d202e995f2c6d0d586"
 metafile = true
 
 [[files]]
