@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f7ad4e6167aec20dac0b19bffe6cd6c20a4f777c946370592212a1a98829ba02"
+hash = "7bb0bffafffd663468c0032782c9d0acc90514ba920f0b0f3e2d3b8dfa592c12"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d9376c71e906a2e1cc33a7889d228baed8bde74613b239f9d2453879a1e2c00d"
+hash = "eef77bc9a8495ac50f8e607ee563b05757d85e3fb7ca10cdebbd7fdc9d134a21"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -19,6 +19,10 @@ hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
+
+[[files]]
+file = "config/yosbr/config/bettergrass.json"
+hash = "8aaf74864043e08741cc3c60f3ffe0d9aaf1fe757f111bb41064fb580d25bdf1"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -90,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "130e15fe2ccb3aa4663a1a0c8e4c025ef36d6cad639674cb8693e7d989678f8c"
+hash = "88a4b9df8024bfb56294ee78b9c85e569f35c66cc9f14e88284512335a3638d2"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -104,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "33e47d3c4896810c569ff31a0db0adad6425883bcf56bfc2d9edc8d86f1b2014"
+hash = "36abb7de9501611c5cc43c1aa360d8f3dcc3deb98cd51a1407050c3433db0b30"
 metafile = true
 
 [[files]]
@@ -129,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "765ce35cb145201e90ed21da298b5f95466c170d03e16e1054a6d2b07e16dd91"
+hash = "ab5d569191db7fb105f6cea3fd1fed959520257a18cde35921b4ebe40aba2bf3"
 metafile = true
 
 [[files]]
@@ -139,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e1c1825a76203690a984bc4130eb87e1533e34d3fedc19abd8251baa9a8f3ac4"
+hash = "46e9279decd21c95893e9a40bca98612067578a8f97902c8569ea78e611fe8b3"
 metafile = true
 
 [[files]]
@@ -149,12 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "193d5ce7c590e6c06e55149bb95318d6298b87a06d0e2645dadebf0efb9e69ca"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "cdf5789bfb1d68fd1cfe6ed914ef098e46bc777fda3a42b3e62a2fbe2656315e"
+hash = "c361af4f01001a1b62b921f62b656ac4143962b22acd475cbdb2398bc0766509"
 metafile = true
 
 [[files]]
@@ -169,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ba1c375a6c4cf1f0a740375856939cf9de6451b3ee5f4354de9d72b46539063c"
+hash = "d6843735e3068e981c9ecc796144c3433086bbef0858c0505f8ec7b9514d847c"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "e34d7259cd00a498652a436686dcbf3845287e571e7392cb4575d81ee33f0255"
+hash = "c08d5b5a53c9771adbccde4934582c6014b60594353bd5c956b8627cfb7b65b4"
 metafile = true
 
 [[files]]
@@ -225,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "86fdb4b5144dd04fb3b21746e30581c2cf968c79649cd7d202e995f2c6d0d586"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "400d19f4781b995666c94e5a76450780875a5071e9b5e2c6c02d9278d97b06db"
 metafile = true
 
 [[files]]
