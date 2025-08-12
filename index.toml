@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7bb0bffafffd663468c0032782c9d0acc90514ba920f0b0f3e2d3b8dfa592c12"
+hash = "5ba5e5711cda75dd3eb821f7edefd437ac5fc7db7921c162d28e35ad93426491"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "eef77bc9a8495ac50f8e607ee563b05757d85e3fb7ca10cdebbd7fdc9d134a21"
+hash = "425b736b90dd52c2c77bbc290ef8e3cf71265f40abb34345da38d9db2f008e98"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "46e9279decd21c95893e9a40bca98612067578a8f97902c8569ea78e611fe8b3"
+hash = "8e658384f22d219c3b8023a9c28a2bb37a029d3fe153fae97c31c225f0159e64"
 metafile = true
 
 [[files]]
@@ -214,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "48019a15b7ead716f4a51848c04fe913a58e5b15d2fe57b38d645a25704aa7fd"
+metafile = true
+
+[[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "fc5105b1bb2b626c21cbe2e0716fbc7423c2e0f70d537d0c6bac1b53613f0c31"
 metafile = true
 
 [[files]]
