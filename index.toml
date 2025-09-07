@@ -2,19 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a8e2de407505ddc58d66d4c1aafbd5fb513c13e77596025da34d4d7f4b2c4d99"
+hash = "16386dc41177acd632978ddcef25e30d676c84523e0d94a593cdd88cbe080f38"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b5a979bf288d4a05a18382b9b60b50f0cb1fecd61cf9c40b1bdb8b3bf886ca30"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "7001975839f64ee14381f60c47152b1eee3c25c7fcc13d7122cb9190c917e13d"
-
-[[files]]
-file = "config/rrls.toml"
-hash = "6590e72ac179919bb797d20815b5de60b7f77e972c1f5cca440837788be7d047"
+hash = "120b1557b800faf25ef3342f5a70917b5063bfe67b569dd40716bb2f7ce376d9"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -82,7 +74,7 @@ hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "7001975839f64ee14381f60c47152b1eee3c25c7fcc13d7122cb9190c917e13d"
+hash = "00a53f09c4d05153c34593562c95bcb65fba831d85ce7b98226b37be419e8673"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -151,12 +143,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "aad43103bb170f8ca47a9f2bbb98cb39d7c0e333ea08fbfe2b11d8aeaafea695"
+hash = "25cf5ccbe17fcd11d2746d469b5d09bfde10f357e3cdfab1b685dc7a67f23a62"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e79d224bd664cd189049b6a91b677e2ea6cbc6e27da026c44d73b66cca4d8dc0"
+hash = "9eb6843c81c82a1c341ce0f32b462b995c8a7686efac764ced8ad71efad1402f"
 metafile = true
 
 [[files]]
@@ -206,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f5e83da1cf19d3bbb2340bc8fe713975efde3ca3d141c7731888e6e26b6ac8e3"
+hash = "474dbec1a749b8a1af2504bf0380c77a3f5815ba4038614b91b873aae2fe57d8"
 metafile = true
 
 [[files]]
@@ -231,17 +223,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "d862b5953efa9f26622fdc72e7be2642560521ce09cd5324041985db886854c2"
+hash = "2a31465a5dcf739b0321e48f1ca270ff23699b5884c6211dd258f30ed74671b5"
 metafile = true
 
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "86fdb4b5144dd04fb3b21746e30581c2cf968c79649cd7d202e995f2c6d0d586"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "400d19f4781b995666c94e5a76450780875a5071e9b5e2c6c02d9278d97b06db"
 metafile = true
 
 [[files]]
