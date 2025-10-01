@@ -1,13 +1,13 @@
 name = "MoreCulling"
-filename = "moreculling-fabric-1.21.6-1.4.0-beta.1.jar"
+filename = "moreculling-fabric-1.21.9-1.5.0-beta.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1e9b9ec184470aa5d52e0d968b5e87cf087efae2"
+hash = "bba7beef4008da89d64b184098ad2b05f469737c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6676650
+file-id = 7052896
 project-id = 630104
