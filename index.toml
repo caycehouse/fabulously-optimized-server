@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "14823c6c3bb33f7b3bb1fdb6828c9802179da06a9942c80742bec024960e4d1d"
+hash = "4b65b2c75e1f33f11c3d025f82c2ea44041416e47d0fe9f40b2c431c9e16347d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a0e8278a8ca9b6ddab3897fd3aefc411f13e64f5e9bbf475d12e148af121dd00"
+hash = "892ca531de2bcc1c346e696785fb66dfb5dd4404b77d1fc5be038cced1b73db2"
 
 [[files]]
-file = "config/rrls.toml"
-hash = "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be"
+file = "config/modmenu.json"
+hash = "8b36ea8af428943d85a7594b9d2e8144be3f77bab05a150e8b2db4dbe8f25a37"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -78,7 +78,7 @@ hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "00a53f09c4d05153c34593562c95bcb65fba831d85ce7b98226b37be419e8673"
+hash = "8b36ea8af428943d85a7594b9d2e8144be3f77bab05a150e8b2db4dbe8f25a37"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -98,7 +98,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f73844d4479bc821a5b71ae122beca17ae3a6739de84a9148fe341250819adfd"
+hash = "ea9650cfa5d2033dbbc0f6d90bd9e91e999a831d922948815beb45665dc93a4e"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -117,7 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7621c38bf5eb90cc7458a78eeab30088bae4bf9f29f72bbc2a2a7c37fc06b551"
+hash = "a109e37c0b9ed06a1202018f6c8e2ba6eed73008f9ad1ffee5b59d32f0798c20"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "b0511adf1a19784c63d78ab91142f6152a4dab1f9d7656912cc785769cec7893"
 metafile = true
 
 [[files]]
@@ -141,6 +146,11 @@ hash = "373c9e22de4d4df2997c0316cb244d3b61b1cc6a6c748c1593af757653b4f957"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "773e0414c3c3531a27d92444b222345888f997dbc41df7a716d9372b6e134248"
 metafile = true
@@ -157,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ebf71a6fbdd07808475d47a0dba72981c278c631a7161371c191ee99a2bd6fed"
+hash = "aa8bb6876c43cc493a0724d77344ffa4a71829acf123fb4e7b82261364322aa5"
 metafile = true
 
 [[files]]
@@ -168,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "571d53be7a248e0961bf769252695b996e14c5daa70a298c52877844ebc8b20f"
 metafile = true
 
 [[files]]
