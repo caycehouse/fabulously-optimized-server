@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4b65b2c75e1f33f11c3d025f82c2ea44041416e47d0fe9f40b2c431c9e16347d"
+hash = "d5ef98fd88ec4921548862706e96fe28fc938c38ce9a92e770dd58734ba16ecb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "892ca531de2bcc1c346e696785fb66dfb5dd4404b77d1fc5be038cced1b73db2"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "8b36ea8af428943d85a7594b9d2e8144be3f77bab05a150e8b2db4dbe8f25a37"
+hash = "d88c8ab07c77e9cc85aebe8dd63bf73305290b79660245bd4cc25968d9a6dbad"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -152,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "773e0414c3c3531a27d92444b222345888f997dbc41df7a716d9372b6e134248"
+hash = "adc3586c1907ab5672119dec308e2f107aa45af1b528bfc6fb1be736bdc11a63"
 metafile = true
 
 [[files]]
