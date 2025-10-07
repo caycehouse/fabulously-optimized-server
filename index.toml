@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d5ef98fd88ec4921548862706e96fe28fc938c38ce9a92e770dd58734ba16ecb"
+hash = "dd738c32dbb6934b3727f2a8f6f11632cca2d4209ff5d1c665f326228641409a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d88c8ab07c77e9cc85aebe8dd63bf73305290b79660245bd4cc25968d9a6dbad"
+hash = "9a4509a62470980e3be47c8ec2ee7cefd0bccaf809dd50009a2966b227348158"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ea9650cfa5d2033dbbc0f6d90bd9e91e999a831d922948815beb45665dc93a4e"
+hash = "daf0c44a7a435c4ddfaa152fec1f40514f416780b473ab4d07dd441d4ca6b68f"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "b0511adf1a19784c63d78ab91142f6152a4dab1f9d7656912cc785769cec7893"
+hash = "62d9cbd3c642ad7751033d15e700d3f1fa10662dd845f13fbe58569f4464c57a"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "481de5d406273af2dda9d94d92bd8e6374befac0caa40e8159f23b127a5b8c49"
+hash = "656978eb5ac50a6ef5890ee50ddb3011b057b23f25bff36c584a8e3610c76e60"
 metafile = true
 
 [[files]]
@@ -153,17 +153,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0fcba7b4cf5e181c00788a822c816e3465678368b56fe16763086154eb30d405"
+hash = "a1a04022f20dce3c4a629cc1306c8dc9b4df0997784520684c1a0d7de2dae967"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "e20d0fa233d898718ff68e27109ad6162c6fbf60ed8a79b1e414c3be537cd2bf"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "aa8bb6876c43cc493a0724d77344ffa4a71829acf123fb4e7b82261364322aa5"
 metafile = true
 
 [[files]]
@@ -194,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/optiboxes.pw.toml"
 hash = "9e77b207ce087c7396a8b33e22ae094834915407a4fc25e11010c24da5e64cba"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "8c7b64206ba79c047c4a6b4f5eedf791c86b33de836ea2760a9dd8396e8c083c"
 metafile = true
 
 [[files]]
