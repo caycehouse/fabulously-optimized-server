@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "dd738c32dbb6934b3727f2a8f6f11632cca2d4209ff5d1c665f326228641409a"
+hash = "9967c4bf60c761233fd5789bd877fdeae595f3c7773d5657dae6fd610785dd85"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9a4509a62470980e3be47c8ec2ee7cefd0bccaf809dd50009a2966b227348158"
+hash = "bcc4b1d95564a6a32a62a1c13ae5b542b21dc236c9f22c3954412105bfd3c087"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "656978eb5ac50a6ef5890ee50ddb3011b057b23f25bff36c584a8e3610c76e60"
+hash = "7aacf1a4ca09e6bcdd423c3b3bec8a285f3aa03401d61f3db8780a51a9d9b5a7"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "adc3586c1907ab5672119dec308e2f107aa45af1b528bfc6fb1be736bdc11a63"
+hash = "65255c87bd3bf84de532144811557741121766878c8366c929df9261c0fd1cb0"
 metafile = true
 
 [[files]]
@@ -159,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "e20d0fa233d898718ff68e27109ad6162c6fbf60ed8a79b1e414c3be537cd2bf"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "68ba5d242288b71ab622d1ccf1ffdb05aacc7d7ca497b1ccf7ed7b56661f7be5"
 metafile = true
 
 [[files]]
