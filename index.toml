@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "fd430e4c6222576b28aee3440dc84850e0db3c0aad1c1130cc1a53fd6c5f1c94"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
+hash = "674bc8c81afaf0cdb1cbf452d2465baad28f643992a08beba778a1b6fbcfe4dd"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
+hash = "cb6990ed815582f7cdd9351e53a111c99ba95acb3ed4cf2587bd54c7de8a6803"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9967c4bf60c761233fd5789bd877fdeae595f3c7773d5657dae6fd610785dd85"
+hash = "09e3badf1cebd45f4b2f374f7a7a347ea65b5cb1dcee920d17815d1c1b300395"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bcc4b1d95564a6a32a62a1c13ae5b542b21dc236c9f22c3954412105bfd3c087"
+hash = "00e5fd2bde26970c7f2271d9e64b8244dd6e86a8c5c929b0cd608e4e7bfb9b3b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -122,6 +134,11 @@ hash = "62d9cbd3c642ad7751033d15e700d3f1fa10662dd845f13fbe58569f4464c57a"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "1ca754edf5c0b2295e39117797422a66a22f97105533c0d9557bc4bb844ab14d"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a826fbce1a20169613e387719b40a05e95a0ca8ede805b82fa686533a0550713"
 metafile = true
@@ -142,6 +159,11 @@ hash = "373c9e22de4d4df2997c0316cb244d3b61b1cc6a6c748c1593af757653b4f957"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "f3314d40956e7b3ca32f42f976a1c0704303e9f8f3c9792d402b3890e8550284"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
 metafile = true
@@ -158,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "e20d0fa233d898718ff68e27109ad6162c6fbf60ed8a79b1e414c3be537cd2bf"
+hash = "88a8dfea83521ece6d822ab93386791283fcdb78b38aefd1d770543f13c361e1"
 metafile = true
 
 [[files]]
@@ -189,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "eb23a8bbd09621c14ce02a935573a6903125f9d8d92806152ebca8c16a5a9fd0"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f718583e1cf79a8034f809b12a0fdd45277cdef2634577d5af05eb6ee37868e4"
 metafile = true
 
 [[files]]
