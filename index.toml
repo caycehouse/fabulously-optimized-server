@@ -9,16 +9,44 @@ file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json
 hash = "674bc8c81afaf0cdb1cbf452d2465baad28f643992a08beba778a1b6fbcfe4dd"
 
 [[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
+hash = "a786d4aaa85f0d84553b33db09ca8b65824b53ba6c5a4951eb1ea05c16acd84b"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/es_ve.json"
+hash = "a786d4aaa85f0d84553b33db09ca8b65824b53ba6c5a4951eb1ea05c16acd84b"
+
+[[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
-hash = "cb6990ed815582f7cdd9351e53a111c99ba95acb3ed4cf2587bd54c7de8a6803"
+hash = "8f273902ae69ec1ed8faa609e77c79ce208e2cd51a3af463c96a784c6bf6de24"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json"
+hash = "e1ae65fcede37a9be86902c5f170495a20a3348282d69f6425991a779bc6a683"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/he_il.json"
+hash = "e02535f2127c515af9521c530333766c6382ae44fd6c262360df2bf500861311"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
+hash = "6d69717c2e1b02551603fd50893fff7ec5e363b418d93191893fe41de6ae80da"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
+hash = "f4c407ed86efec22816efb1f832f7d610f485ac78c38a094717720e5a6a8bf66"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json"
+hash = "0058163c127e9fe2fd798244adc75ede3535f5e1c764da56052c1fa1c9eb341c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "09e3badf1cebd45f4b2f374f7a7a347ea65b5cb1dcee920d17815d1c1b300395"
+hash = "69bc3fe99a29dc435ccc30d5a2c098a9e5e82d64b975fb8b96ed4eaf947799f3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "00e5fd2bde26970c7f2271d9e64b8244dd6e86a8c5c929b0cd608e4e7bfb9b3b"
+hash = "e6e99aa9b6231917e875704c90cad5d233dd82135b2d4beddb09075ccaf5429f"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -135,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "1ca754edf5c0b2295e39117797422a66a22f97105533c0d9557bc4bb844ab14d"
+hash = "a214e3dd95b7ce87ddddd13869cec29fa81e0dd29b4f5e093cdb6698ca19c947"
 metafile = true
 
 [[files]]
@@ -150,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7aacf1a4ca09e6bcdd423c3b3bec8a285f3aa03401d61f3db8780a51a9d9b5a7"
+hash = "318c930c2053c562d960363b5179a58f43555f7e34ae4ee462b1222f84ffc5f0"
 metafile = true
 
 [[files]]
@@ -180,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "88a8dfea83521ece6d822ab93386791283fcdb78b38aefd1d770543f13c361e1"
+hash = "dab2ab22d4516b54631f8e223200d68d70b1897cadfbed58c9bc38b2842ef271"
 metafile = true
 
 [[files]]
@@ -220,12 +248,17 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "9e77b207ce087c7396a8b33e22ae094834915407a4fc25e11010c24da5e64cba"
+hash = "0cae91827d3380394aa66a7f163556e7423653b6b0bbf76d6c944a5cee917447"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "8c7b64206ba79c047c4a6b4f5eedf791c86b33de836ea2760a9dd8396e8c083c"
+metafile = true
+
+[[files]]
+file = "mods/paginated-advancements.pw.toml"
+hash = "a1d5fa51ae5eabc1f6deaa345af2a8f548236f7d8ec75bcce942b99a5f0fadd5"
 metafile = true
 
 [[files]]
