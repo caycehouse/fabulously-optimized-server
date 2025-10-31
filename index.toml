@@ -2,51 +2,51 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "fd430e4c6222576b28aee3440dc84850e0db3c0aad1c1130cc1a53fd6c5f1c94"
+hash = "14893ad93f2c2287f04d7fd23deb2490a25424de06d785a341bcbcd07ce96ab3"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "674bc8c81afaf0cdb1cbf452d2465baad28f643992a08beba778a1b6fbcfe4dd"
+hash = "c4336281544cec29b41e0ba9a899f9c7bf28d494afda4b3ae3b1c8090d06f3a6"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
-hash = "a786d4aaa85f0d84553b33db09ca8b65824b53ba6c5a4951eb1ea05c16acd84b"
+hash = "ce66e0782d3214c4c782751a8f6912bd68beae539dd25379921527745d14a321"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_ve.json"
-hash = "a786d4aaa85f0d84553b33db09ca8b65824b53ba6c5a4951eb1ea05c16acd84b"
+hash = "ce66e0782d3214c4c782751a8f6912bd68beae539dd25379921527745d14a321"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
-hash = "8f273902ae69ec1ed8faa609e77c79ce208e2cd51a3af463c96a784c6bf6de24"
+hash = "5387262e47bde75635e9d44659c7500833d3e43337f756d7cad39cdc3a6cfc2a"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json"
-hash = "e1ae65fcede37a9be86902c5f170495a20a3348282d69f6425991a779bc6a683"
+hash = "6b385450ec071be0b395c6e5067aa8698a4ab914fac1fe8be40d8a264eecf194"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/he_il.json"
-hash = "e02535f2127c515af9521c530333766c6382ae44fd6c262360df2bf500861311"
+hash = "cdf6c2143d6b4a6634c34a427ed849b15c5175c943a2474a5e3bfff6fab5b5da"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
-hash = "6d69717c2e1b02551603fd50893fff7ec5e363b418d93191893fe41de6ae80da"
+hash = "f6afd3fa7e12990ed7181c04366bb5ce340a38981a2a54d8a95958b53bd8e296"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
-hash = "f4c407ed86efec22816efb1f832f7d610f485ac78c38a094717720e5a6a8bf66"
+hash = "1f2af529de5a19aa4fb83f656e217caa1df02796b5cd96247e4b04ced22ea127"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json"
-hash = "0058163c127e9fe2fd798244adc75ede3535f5e1c764da56052c1fa1c9eb341c"
+hash = "76d4d39d3e2da9ccb2a9ebf7122787696046a6476319ffec390d820a834ea924"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "69bc3fe99a29dc435ccc30d5a2c098a9e5e82d64b975fb8b96ed4eaf947799f3"
+hash = "9ea131914d907ac76ec90692934046eb2215c54c41217861f854ce2a7534b759"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e6e99aa9b6231917e875704c90cad5d233dd82135b2d4beddb09075ccaf5429f"
+hash = "8d20318aca9040df5b49ce0f442c3db390bd38f3a34b923344ce4368470e5c20"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a109e37c0b9ed06a1202018f6c8e2ba6eed73008f9ad1ffee5b59d32f0798c20"
+hash = "de8e021e0beacab839ca3bd4dfdb30fa5f3cfd1e71be722ccf56373908b41a7f"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a214e3dd95b7ce87ddddd13869cec29fa81e0dd29b4f5e093cdb6698ca19c947"
+hash = "eb3d4f7a257f8287f504f4e9f96ef75e420045d638e08f122fe1149600f92f49"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6a24ffd824bd76bdf09ff6c503f8b441a36a8c07d8d114666a082e135c87ccd2"
+hash = "10916b552d45d65fbf872a5649c4d767cba25700b01e19918de0c0ae7962ba1c"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "373c9e22de4d4df2997c0316cb244d3b61b1cc6a6c748c1593af757653b4f957"
+hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a1a04022f20dce3c4a629cc1306c8dc9b4df0997784520684c1a0d7de2dae967"
+hash = "e858e430cbe0b2d5faf1463d52673bb571b6673526088bd457202ceb85fc2984"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "2ae6600ef529b6d24c1e969c94d91b5ce5a79b63ea37317446751822417e3127"
+hash = "2432429f4a67513150f12b44e5c6f67d9c4eb167e8c3b12ac5f3b136749bf293"
 metafile = true
 
 [[files]]
