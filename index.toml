@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "14893ad93f2c2287f04d7fd23deb2490a25424de06d785a341bcbcd07ce96ab3"
+hash = "86ed2f5f03c88c1c44650f57d1f5769e88079ac7ba51ddb16b6b932e3bb0eb72"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "c4336281544cec29b41e0ba9a899f9c7bf28d494afda4b3ae3b1c8090d06f3a6"
+hash = "f2120ac2a80ae83aabfcdacf80079a6b6b50213f736e77837376fb47382e6074"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
-hash = "ce66e0782d3214c4c782751a8f6912bd68beae539dd25379921527745d14a321"
+hash = "c6af158e02fca9590d7f688d8a4bad410ccdabcb58787f0bd55c88a6543157f3"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_ve.json"
-hash = "ce66e0782d3214c4c782751a8f6912bd68beae539dd25379921527745d14a321"
+hash = "5e3660aff589b69711dba7347af9d030c545e76793ac6752111256a97edcc276"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
-hash = "5387262e47bde75635e9d44659c7500833d3e43337f756d7cad39cdc3a6cfc2a"
+hash = "3ffce5d4f7b2efc2c98816d22871ef45fad912fded5606a9498a9d2f7ac7378a"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json"
-hash = "6b385450ec071be0b395c6e5067aa8698a4ab914fac1fe8be40d8a264eecf194"
+hash = "35b0783789f6735aa8cc8957c6f0bf5640d051bf9c6bdeeed5c508ab78b894e2"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/he_il.json"
@@ -34,7 +34,15 @@ hash = "f6afd3fa7e12990ed7181c04366bb5ce340a38981a2a54d8a95958b53bd8e296"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
-hash = "1f2af529de5a19aa4fb83f656e217caa1df02796b5cd96247e4b04ced22ea127"
+hash = "f862137ff1847ac341f3f5f4571d157aa2b27c527d02240e239f64f1d96c6f5e"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/vi_vn.json"
+hash = "4e7a3160e2ce7128a3fc583cd0a1cbb874b78eecb314ddbd9a0a209b7d3ee1a6"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json"
+hash = "5ded8a669ee5be80278281c2a03477edc59e207e08f7addedfc144be6cf7dd08"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json"
@@ -42,11 +50,11 @@ hash = "76d4d39d3e2da9ccb2a9ebf7122787696046a6476319ffec390d820a834ea924"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9ea131914d907ac76ec90692934046eb2215c54c41217861f854ce2a7534b759"
+hash = "ce6abe997f171c3f72f7e00fb2a642df1900517b44d08d2b76cb72506904670f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8d20318aca9040df5b49ce0f442c3db390bd38f3a34b923344ce4368470e5c20"
+hash = "75ba7e93655d5ecb36a0cd1f2133cb50a03b4489614c9895f3535a61e361e5ce"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -133,6 +141,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
+file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
+hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "daf0c44a7a435c4ddfaa152fec1f40514f416780b473ab4d07dd441d4ca6b68f"
 
@@ -163,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "eb3d4f7a257f8287f504f4e9f96ef75e420045d638e08f122fe1149600f92f49"
+hash = "3b3cef32b48bc43083f390c0a0e1555acc2462ddb7a44bbc383973d92e0bae02"
 metafile = true
 
 [[files]]
@@ -178,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "318c930c2053c562d960363b5179a58f43555f7e34ae4ee462b1222f84ffc5f0"
+hash = "e4b66fcce58c596143696fcf9afd3fbfe2747ae6b68fd96f423a52e843cb83e0"
 metafile = true
 
 [[files]]
@@ -193,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
+hash = "47a38ead307c2d86ac06e12f70847dc0194da9014608d4ac7b4133ae6a5abdda"
 metafile = true
 
 [[files]]
@@ -208,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "dab2ab22d4516b54631f8e223200d68d70b1897cadfbed58c9bc38b2842ef271"
+hash = "8036cf2bc316b514ce60085189ab2324ad2339f465b0cdf001581f89c18a8cbd"
 metafile = true
 
 [[files]]
@@ -248,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "0cae91827d3380394aa66a7f163556e7423653b6b0bbf76d6c944a5cee917447"
+hash = "37346af7b4b50926349f4e88c83aafea74fc06b45a0a5ed9335775002ef1de9e"
 metafile = true
 
 [[files]]
@@ -269,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "2432429f4a67513150f12b44e5c6f67d9c4eb167e8c3b12ac5f3b136749bf293"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "cdf62992a654bf76495b999867271cd63f777e7af821ad2ca3f4099ccf58cd9d"
 metafile = true
 
 [[files]]
