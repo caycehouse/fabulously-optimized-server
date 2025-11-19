@@ -54,11 +54,11 @@ hash = "f9f749ace6d13a5d3e55e1061bb46e5fe0022a152fd1dfee4a179bb42dd37b38"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b5f4df573e28894c6eaa448a7a74c7002054d9afaee04a8075c0b8d559c56cda"
+hash = "610fad63a9ed0178049b7a5bd0c519c83c714aa5f284daabd38a93f9a40bc5cb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e8a695472a4ca21b8e8018c2f0efbbf8b58a87a0f0c53be6a640b0fc3d9b3f22"
+hash = "ec3a267b757c683863d01e17602f2a847a2e72c9c16cacc358668cbc50b2b0a9"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -150,7 +150,7 @@ hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "daf0c44a7a435c4ddfaa152fec1f40514f416780b473ab4d07dd441d4ca6b68f"
+hash = "edd18730edde6d07394ca0631b03a8ea4dbe65294f4f13e42152a71ddb3645de"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -184,12 +184,17 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "3b3cef32b48bc43083f390c0a0e1555acc2462ddb7a44bbc383973d92e0bae02"
+hash = "dff41426a17ac8010ebcb69a15950bb824a3899684bdcd1a520e48f8f171ccbd"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a826fbce1a20169613e387719b40a05e95a0ca8ede805b82fa686533a0550713"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "ca4b787b5c412165603834e0c3a878f60a822de9b57542bd946b27321406fb64"
 metafile = true
 
 [[files]]
@@ -219,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "65255c87bd3bf84de532144811557741121766878c8366c929df9261c0fd1cb0"
+hash = "3f793cb78a7b12af9f43914e55fd158789db5f69f69205a897e11cdd6569c367"
 metafile = true
 
 [[files]]
@@ -233,8 +238,13 @@ hash = "8036cf2bc316b514ce60085189ab2324ad2339f465b0cdf001581f89c18a8cbd"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "c016a2e50448d16535dd5fafc4803fc82637b486d208a4329d8b2a9e776ca76e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
-hash = "68ba5d242288b71ab622d1ccf1ffdb05aacc7d7ca497b1ccf7ed7b56661f7be5"
+hash = "bcfd26bc56aa72b4edd5cd6a025137e51dc6cb4a7866a7665511009404d13bb9"
 metafile = true
 
 [[files]]
@@ -274,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8c7b64206ba79c047c4a6b4f5eedf791c86b33de836ea2760a9dd8396e8c083c"
+hash = "2892ef637c93b1255b6ee01eab9b27afa27fe42664094130ba0d560c8a320713"
 metafile = true
 
 [[files]]

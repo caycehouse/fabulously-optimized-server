@@ -1,13 +1,13 @@
 name = "OptiGUI"
-filename = "optigui-2.3.0-beta.8+1.21.9.jar"
+filename = "optigui-2.3.0-beta.9+1.21.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "030107a23b95f91a469a4b15af6f0cfbe2fdcd2a"
+hash = "d79e193539ad7920382648083e6c61b7fc053d2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7069969
+file-id = 7215830
 project-id = 619986
