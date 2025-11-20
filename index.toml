@@ -53,16 +53,12 @@ file = "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json
 hash = "f9f749ace6d13a5d3e55e1061bb46e5fe0022a152fd1dfee4a179bb42dd37b38"
 
 [[files]]
-file = "config/debugify.json"
-hash = "ee95d3e253c8ba15dbae02e976174cd7dfe994ee3cf28f07f21983458d71420c"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6615cba340702327fd206861d32fa2e2ad044cfbba6c89b0b80651e74573ccd8"
+hash = "f5cb33236a600f23b8badf6405da713fcbae3b3d02de0fb47f6be7cc365afe81"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "019bba26dba4844b751c568b7f571a77764d6eedf238187926dd82a107c59c2e"
+hash = "a6271b5c6ad19abd2f51015b68143bdf3d00001c4880c40f976221b00abc103e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +86,7 @@ hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "260224fe6f352299471d00779cfe3bf69d8f194b0e93d8390f4ee446199bae2a"
+hash = "375d545e83e1aabc7700c5f0bea4f7bcf1a19e5e35f9a2155bde2e1c9b0ebc61"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -188,17 +184,12 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "dff41426a17ac8010ebcb69a15950bb824a3899684bdcd1a520e48f8f171ccbd"
+hash = "5d649cafee2f308f7948477a2ba5fd26f2522815ec255e1a7397a7ad6d1ef1f3"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a826fbce1a20169613e387719b40a05e95a0ca8ede805b82fa686533a0550713"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "ca4b787b5c412165603834e0c3a878f60a822de9b57542bd946b27321406fb64"
 metafile = true
 
 [[files]]
