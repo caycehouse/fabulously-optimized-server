@@ -1,0 +1,13 @@
+name = "MoreCulling"
+filename = "moreculling-fabric-1.21.11-1.6.0-beta.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e968bd79bb85c2b658869a2738e033676207438f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7324363
+project-id = 630104
