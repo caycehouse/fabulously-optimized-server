@@ -6,7 +6,7 @@ hash = "603e4c376d5595c9aabcd836523e6cbf2fe28bc61edef6b978ffe329bc683806"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "83f7850f17c4b4c4f3363e4df2c01eb9cbfcaf184d119cf49c002aa80acba061"
+hash = "1c9a6e15853472164c29668a0aee0fc033d42c99a65d3ca9641d6b217ec3c39b"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
@@ -18,11 +18,11 @@ hash = "5e3660aff589b69711dba7347af9d030c545e76793ac6752111256a97edcc276"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
-hash = "3ffce5d4f7b2efc2c98816d22871ef45fad912fded5606a9498a9d2f7ac7378a"
+hash = "c4b077041d5847178c75cd56b076a20c0b1997bf0d322a68bb4a74076810c815"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json"
-hash = "35b0783789f6735aa8cc8957c6f0bf5640d051bf9c6bdeeed5c508ab78b894e2"
+hash = "6010c841df9af4ab572aa17e94d07b3661c136b63e8e0174e69bee9c52f36676"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/he_il.json"
@@ -30,7 +30,7 @@ hash = "cdf6c2143d6b4a6634c34a427ed849b15c5175c943a2474a5e3bfff6fab5b5da"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/it_it.json"
-hash = "49d95b6a84e164b2e8e203e9772a6912ae23fc5c0fada8e26969c8f326f1cc90"
+hash = "5c7a5eb2218640ea7e6f3ab8c5629ae773b8dd59acbba998c92900054eb760f1"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ms_my.json"
@@ -46,7 +46,7 @@ hash = "f6afd3fa7e12990ed7181c04366bb5ce340a38981a2a54d8a95958b53bd8e296"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
-hash = "f862137ff1847ac341f3f5f4571d157aa2b27c527d02240e239f64f1d96c6f5e"
+hash = "394a2b16bcf5b40e6387e33e4bf607e57ee62d451f8acbd33c4c500cc78400e4"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/vi_vn.json"
@@ -66,15 +66,11 @@ hash = "9abad57cb53a894ed4f4b496008e2bab0833f482e8e7f56938a8a62e5638bd6a"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "981eba810d5575320ab1da1407c7c6e9a788a8893bd5e67e33897a38f2103ac1"
+hash = "3540ffd424996442a2620b2fde1c359e30220982ef00a7abc8f383b97fd94f36"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a111822a7cc12384c2d7579c99fe36ea34a7faa86857c4edcb7c36f0fa0dbfd4"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "b7b9cdc1e99bdfd86052e373dc3e0ae87c73760816454b801b09d0cfd7b79604"
+hash = "7ead80cfad18dff0a497c4a80b245f412e08e91d1d5a9f5ed50ce6543590d14d"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -142,7 +138,7 @@ hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "9a04eaf0053e9b9c3f181ec7ebce30d00edee3f0c42214c6b57668fdcaf3fac2"
+hash = "b7b9cdc1e99bdfd86052e373dc3e0ae87c73760816454b801b09d0cfd7b79604"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -166,7 +162,7 @@ hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f6a8443f05e331bd996658a4c5e3c9001794aa6a5358a8eea9ecca360f7d63be"
+hash = "ef6e916dd12fe398041c063a7a0b70e8c8bdb6d4fb75533d3d14283337fd1654"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -205,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
@@ -220,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "70b8c7e1ff2d4adc365fe5bf4f765301662f2dd61813ed8cacb818e8184b3697"
+hash = "b898e0d94915287fcce4f85a3e5135e831475957e03d035ac05ecd7a7585929d"
 metafile = true
 
 [[files]]
@@ -285,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "8840793122c0ffd224a6fa7fb941fa46584f8c75dbe68cc36d68f338bc15dc76"
+hash = "346d8c95158bd00227cd0ba3cf8f2e37fb3cc853128de7de4d757edf5409e696"
 metafile = true
 
 [[files]]
