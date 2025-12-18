@@ -26,7 +26,7 @@ hash = "6010c841df9af4ab572aa17e94d07b3661c136b63e8e0174e69bee9c52f36676"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/he_il.json"
-hash = "cdf6c2143d6b4a6634c34a427ed849b15c5175c943a2474a5e3bfff6fab5b5da"
+hash = "c746a1103ed59842e1520dab19aba57c5785457e991c356dc21621123545fbf0"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/it_it.json"
@@ -34,11 +34,11 @@ hash = "5c7a5eb2218640ea7e6f3ab8c5629ae773b8dd59acbba998c92900054eb760f1"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ms_my.json"
-hash = "9abad57cb53a894ed4f4b496008e2bab0833f482e8e7f56938a8a62e5638bd6a"
+hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/pl_pl.json"
-hash = "4ae15643ae98cc5121547cb787adc92b13161391f1d3572ab5b5bcd3d23acb53"
+hash = "f878e7fbf52e211892dbc8bd100793e8627b7facc87c1dc954f4fd757b11af72"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
@@ -62,15 +62,15 @@ hash = "15ca1dbab8723faf3a690cff0bdb0cbb63d20d138975083825c22c7a42643394"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zlm_arab.json"
-hash = "9abad57cb53a894ed4f4b496008e2bab0833f482e8e7f56938a8a62e5638bd6a"
+hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3540ffd424996442a2620b2fde1c359e30220982ef00a7abc8f383b97fd94f36"
+hash = "28f63947a270fc126857acf76b5fcbde90fba759789802012e0711a0b24d9307"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7ead80cfad18dff0a497c4a80b245f412e08e91d1d5a9f5ed50ce6543590d14d"
+hash = "e2e71b25ba4c71f3dbd3ef85750bf3287419e006f5dc8a2ec28428e426c3feda"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "62db4fade1e897fda270d5e5542871e888bc8c3ba20c4fdc0ff3121d223181db"
+hash = "6ec1798b70aa32b552c72980895e02291192c4d77bf82f6065aa7389530a2266"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "93cabcba604035a35c4309a581907fb498b18785052397c5707335d5106d3743"
+hash = "ca9878bae14b0f23e672b993430952fde9998a54e8f263ebdf6dff35fc545061"
 metafile = true
 
 [[files]]
