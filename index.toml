@@ -66,11 +66,11 @@ hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3f571bb934aaf3a5a1710f615e9903be6e8777319b606b95189113db52bf0198"
+hash = "568376b1c0549c7c2117ac21ac69e00f7447f681e3d75c6a2da155b2d8bae302"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4d580d6148cd78112ce2d3aae61304821fe8f7f5a2e5baff8a7f22b58a840a98"
+hash = "ae31ae0d6dd29a26b1cf1e8cb42579f6f181f491d2112533654129022addd100"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -190,13 +190,13 @@ hash = "a2157cb283825dc11dbef898000d47f36c70837e8c15552c5d52eeaf3be5f0c3"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "688283363bd049ee4cbd1416ca412d7e039ec5a5d86f6f690149ba12b3b2297b"
+file = "mods/cubes-without-borders.pw.toml"
+hash = "af558a7155aec0644028cdc65fa58c056a3863f06f1046c6f82c0ab5cfb94df1"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b8f6040c1859b1df8d144d71133809605005a35f10a7c54126fe19d135c772cd"
+hash = "2e1dbd715bdbf7c5ccc0f540db953df2952045ebae46f1b5c81521261c97784d"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "f3314d40956e7b3ca32f42f976a1c0704303e9f8f3c9792d402b3890e8550284"
+hash = "b3559502b62eeaead1601be5139b974d427b88cb5e7d1b62e6d6f883d63bdcc3"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7285f37813f3a2e279aeb5cad34e9f49ba9c0f110572310b94500cd9e43ab687"
+hash = "7a446c4ebf8d4f4a765cff81a4be212d4b31a82a3284d4a74d01ba3de44f200d"
 metafile = true
 
 [[files]]
@@ -281,17 +281,17 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "3fed21fe8203951468be3f24bf4fd5a1c4271b32750167eef9e1eaf0ef23388b"
+hash = "17388a54b53b4064b45811e2867e645ac04712037deb518245299b68ea639cd6"
 metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "2a948daed681901d76512b62ba4a3e68433745397f27d9158f08271d9ba0ad3c"
+hash = "5686d07b5d32ca6637381922b2618fe67cda3451bc4bc706736d09e8aceaf6ea"
 metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "185260d71fe47373baee2900dc708e38fd2111939beddb25c1c5e38a0a12109c"
+hash = "cb13e21788e081ebcadc431744d5adadf3c1e4da4ce77a8b92a4067d346cac59"
 metafile = true
 
 [[files]]
