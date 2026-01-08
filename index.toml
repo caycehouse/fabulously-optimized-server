@@ -6,7 +6,7 @@ hash = "f6e7fd1a6ada739da42d8cb8395232b28595fb7b74fc3c990d1947a3ef3a79cc"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "1c9a6e15853472164c29668a0aee0fc033d42c99a65d3ca9641d6b217ec3c39b"
+hash = "4fafb86ca4e0aa03abcb6c769106810dcd1a6f1d23c13c215e5556e41a9cfea1"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
@@ -42,19 +42,19 @@ hash = "f878e7fbf52e211892dbc8bd100793e8627b7facc87c1dc954f4fd757b11af72"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
-hash = "f6afd3fa7e12990ed7181c04366bb5ce340a38981a2a54d8a95958b53bd8e296"
+hash = "9682549c2fa2f5eacf541bd210b7abdc998da1c93a3ffbc50d07b2d87d21011d"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
-hash = "394a2b16bcf5b40e6387e33e4bf607e57ee62d451f8acbd33c4c500cc78400e4"
+hash = "9a1530734bfc7dd66250679ecc1a38d2dc99df6962031c98a6ed3c73567c6a0f"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/vi_vn.json"
-hash = "4e7a3160e2ce7128a3fc583cd0a1cbb874b78eecb314ddbd9a0a209b7d3ee1a6"
+hash = "96d9d1950ba059bcf5e71b16cd3513f8a64595f8bca747f383398ab682f0ce03"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json"
-hash = "5ded8a669ee5be80278281c2a03477edc59e207e08f7addedfc144be6cf7dd08"
+hash = "902c431486ecdd638cada3673a50778c65f2fda4aa0fbf6d31da35dc798461fa"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json"
@@ -66,11 +66,11 @@ hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "568376b1c0549c7c2117ac21ac69e00f7447f681e3d75c6a2da155b2d8bae302"
+hash = "8a827903e0c18501b995966f241dd5938545b8f7e4d08dd90d916151809c7f2d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ae31ae0d6dd29a26b1cf1e8cb42579f6f181f491d2112533654129022addd100"
+hash = "e70e89d64f126597efac3023a6b034d991dfd73b29569f2bbdb059a3f3626384"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -196,12 +196,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2e1dbd715bdbf7c5ccc0f540db953df2952045ebae46f1b5c81521261c97784d"
+hash = "311f19fbeed28d9217aac4c56d25dfe190f016983a008befaa8ff8a35bd92aa3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4851e08949034729ae5e108626ea4dea2221a66d6428167fc75e1ed59245bc05"
+hash = "9122a51e1ac6fc5b832894205e8c276f776c66cb5f40c5a7d567ba9a2f7764b2"
 metafile = true
 
 [[files]]
@@ -232,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ff9af33704ca388bc255fa78515231e2a5c68c0be85cb86e68a764aa8768ef13"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "cb39c4bb5f5ee16402c9297f25e0044aed78cfd5d6fef01277ddda723ae70132"
 metafile = true
 
 [[files]]
@@ -277,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "99156f6928615e42547df4c560b6e7ea99844c815c5684d4aaa78511a094845a"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "8500e61ca67245352f9e41c9b6d98355a6c1d25b4e11470bb740f4f53b707d56"
 metafile = true
 
 [[files]]
