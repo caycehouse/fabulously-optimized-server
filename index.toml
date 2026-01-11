@@ -6,19 +6,19 @@ hash = "f6e7fd1a6ada739da42d8cb8395232b28595fb7b74fc3c990d1947a3ef3a79cc"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "4fafb86ca4e0aa03abcb6c769106810dcd1a6f1d23c13c215e5556e41a9cfea1"
+hash = "a561481af34c8d0483ab9c6bdd51299e9d16a51174a13617595f01c08bb2a2fb"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
-hash = "c6af158e02fca9590d7f688d8a4bad410ccdabcb58787f0bd55c88a6543157f3"
+hash = "d275f6a87d202dd095487a0cd5c7203f14fce61dd5ee35a929a76f017163dabe"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_ve.json"
-hash = "5e3660aff589b69711dba7347af9d030c545e76793ac6752111256a97edcc276"
+hash = "d275f6a87d202dd095487a0cd5c7203f14fce61dd5ee35a929a76f017163dabe"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
-hash = "c4b077041d5847178c75cd56b076a20c0b1997bf0d322a68bb4a74076810c815"
+hash = "cc3ec39716498b9fa147f71baa082ae9d0c0dbb7a0805c3d47054474d2ad7fa9"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json"
@@ -34,7 +34,7 @@ hash = "5c7a5eb2218640ea7e6f3ab8c5629ae773b8dd59acbba998c92900054eb760f1"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ms_my.json"
-hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
+hash = "400e2975812eb3be3b0739679c29f89540c96376a711b954eb803cd946e6bfd8"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/pl_pl.json"
@@ -42,7 +42,7 @@ hash = "f878e7fbf52e211892dbc8bd100793e8627b7facc87c1dc954f4fd757b11af72"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
-hash = "9682549c2fa2f5eacf541bd210b7abdc998da1c93a3ffbc50d07b2d87d21011d"
+hash = "898eb21ab8a2b1721c28d616b98d2f329c48d9a734820f18b3cbfc274d0955eb"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
@@ -62,15 +62,15 @@ hash = "15ca1dbab8723faf3a690cff0bdb0cbb63d20d138975083825c22c7a42643394"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zlm_arab.json"
-hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
+hash = "400e2975812eb3be3b0739679c29f89540c96376a711b954eb803cd946e6bfd8"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8a827903e0c18501b995966f241dd5938545b8f7e4d08dd90d916151809c7f2d"
+hash = "e73087c855b26f4321e998a7fdfe9d3a4a5b4453fab452135a51c79b80cbf018"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e70e89d64f126597efac3023a6b034d991dfd73b29569f2bbdb059a3f3626384"
+hash = "f0c752eefb3604ed9152a4bf5dba69b7b7ab3dc13ab1cf2ebaedc017aff4ba5b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -190,6 +190,11 @@ hash = "a2157cb283825dc11dbef898000d47f36c70837e8c15552c5d52eeaf3be5f0c3"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "bffe001349d2eb3fea86f1d929e3241485e7a05654125ba8e5fb5f6c4dd89f6e"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "af558a7155aec0644028cdc65fa58c056a3863f06f1046c6f82c0ab5cfb94df1"
 metafile = true
@@ -256,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "0fef3ebf7fbbb9b6ccfc1ea1b7c38ddcca8cda86978c0f2f04121f22b26bc4e3"
+hash = "037f48cc503913e20d60a198fe1d6b40953e32cfb0fdff45361bbf1cdf6708ad"
 metafile = true
 
 [[files]]
@@ -311,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "692b7f775360faf75015ef40d93ed1992c29214dc9a7df60da88b4b7bdb101f3"
+hash = "eb9876fa0317ffa09fe9df3b615d3567086830c1274e2856c73c533717d53fae"
 metafile = true
 
 [[files]]
