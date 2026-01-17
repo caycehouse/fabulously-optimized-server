@@ -1,0 +1,13 @@
+name = "Config Manager"
+filename = "ConfigManager-fabric-1.21.x-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e68e133c4c8cb7801298688136338c2488427a84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7211409
+project-id = 1340480
