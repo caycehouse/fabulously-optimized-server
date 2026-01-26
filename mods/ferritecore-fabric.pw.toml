@@ -1,13 +1,13 @@
 name = "FerriteCore (Fabric)"
-filename = "ferritecore-8.0.3-fabric.jar"
+filename = "ferritecore-8.2.0-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d2b112df25059211ae84f102254dc552367d72e"
+hash = "c2e2f5e008f5bc9f401dfad8ca94909917006b65"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7312354
+file-id = 7524516
 project-id = 459857
