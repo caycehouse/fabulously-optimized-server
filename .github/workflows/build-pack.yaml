@@ -15,7 +15,7 @@ on:
 env:
   UPSTREAM_REPO: Fabulously-Optimized/fabulously-optimized
   # renovate: datasource=github-releases depName=Fabulously-Optimized/fabulously-optimized
-  VERSION: v12.0.0
+  VERSION: v12.0.1
 
 jobs:
   sync-release:
