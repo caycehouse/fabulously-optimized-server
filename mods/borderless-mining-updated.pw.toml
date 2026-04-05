@@ -1,13 +1,13 @@
 name = "Borderless Mining Updated"
-filename = "borderlessmining-1.2.1+26.1-fabric.jar"
+filename = "borderlessmining-1.2.3+26.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "54811166f804899cb09ad4ab39505a9ae3d65f25"
+hash = "b4dbb36d370eeee61e861072f5323532b5843bf2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7808038
+file-id = 7872942
 project-id = 1487420
