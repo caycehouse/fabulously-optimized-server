@@ -58,7 +58,7 @@ hash = "cff43e4b9e57d10877fac126c1a021d9f40eba1a25ed4640728001078f6507a8"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json"
-hash = "03fed9b3e4d04110e0770f73225a2ae9ba698330d5a12cab461f545651e8f94e"
+hash = "c7e5ef033cae1d3c1a38b20a13bb5eaa753c9b73c216ac207d221c05f30ada08"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json"
@@ -70,11 +70,11 @@ hash = "e9aee9c3cd2090e6f810b045e22b4e1fa61b758829349ac2dd1dbab19f09281e"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c00a5eb9dd3d4aa74fa66960168a7ce2b543f86b8c63be22976434b7d31de615"
+hash = "b21d7956b0a21c210e5f48bcc9316da085a57f446b0ea4494617ad0a5d824b39"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "33075ec2f6af7776c2fb98fda0b1ced4052db0080bc7aaa3c428c180791f5764"
+hash = "cf410b96d1ca4f569cea310cac1fdaa52e37deb2ce418c7275aa278a006fad8a"
 
 [[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
@@ -154,7 +154,7 @@ hash = "cff43e4b9e57d10877fac126c1a021d9f40eba1a25ed4640728001078f6507a8"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json"
-hash = "03fed9b3e4d04110e0770f73225a2ae9ba698330d5a12cab461f545651e8f94e"
+hash = "c7e5ef033cae1d3c1a38b20a13bb5eaa753c9b73c216ac207d221c05f30ada08"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json"
@@ -178,7 +178,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "c00a5eb9dd3d4aa74fa66960168a7ce2b543f86b8c63be22976434b7d31de615"
+hash = "b21d7956b0a21c210e5f48bcc9316da085a57f446b0ea4494617ad0a5d824b39"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -194,7 +194,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "33075ec2f6af7776c2fb98fda0b1ced4052db0080bc7aaa3c428c180791f5764"
+hash = "cf410b96d1ca4f569cea310cac1fdaa52e37deb2ce418c7275aa278a006fad8a"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -270,8 +270,8 @@ hash = "1347ee8be0f38884db0791d81f9c846270ef052a8036d00643dd875ceac35d9c"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "2cbb4bb23757f97233bfaf82646d06c23295e49e805a1477484c988b1a54b16c"
+file = "mods/continuity.pw.toml"
+hash = "ffbc748a2cc2267d97edc0200a4e04a94d11dc9b4125512317d66bbe916bf390"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "492e242a9f418ad3dd69620d1b2a4e32c195e3d83fc9103d4f8d8af0b3360653"
+hash = "1cba6d37b45593a97ee880e0fd3d8cbfaf0d04a115218551c1a7cf60f3eec391"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "d4a896dd1fb63c9acb769d7b87555bea90826e0839fbf93888798e5d0625a0f0"
+hash = "6b199af516470f2d92e83f96c9a1095c4d395282f0ab512313f2df1b061f1b23"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a150131ca1ac67b2ad7e03045405580788bfa5a3731eb51309f96cdafe92e1f2"
+hash = "cef99f4a5b0c60620d5c5b92a7915e1b7a752a8d35bdb5a9d6970902b0b21219"
 metafile = true
 
 [[files]]
