@@ -1,13 +1,13 @@
 name = "Lithium (Fabric/NeoForge)"
-filename = "lithium-fabric-0.23.0+mc26.1.1.jar"
+filename = "lithium-fabric-0.24.0+mc26.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4904811469a2f62d7de3e250b6c98acfa3b58d9f"
+hash = "bcdcb297661775c51971b1be1720a4479ed81804"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7857243
+file-id = 7899994
 project-id = 360438
