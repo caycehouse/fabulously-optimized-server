@@ -70,11 +70,11 @@ hash = "e9aee9c3cd2090e6f810b045e22b4e1fa61b758829349ac2dd1dbab19f09281e"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3a7c2b872e90887a41204eeffc539dc73fb015f47e4181cac35d3ffe21a9c193"
+hash = "4dee502f1bbd55e578970b177b4f7b1ab0dd24d415f5a890ccf4142e81c68c66"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c0a920141ac01137f568b2a47d37a4940f89ac3b6e98a9de139e21bf3653af77"
+hash = "9474a74f4ac78fc1e6cd68c14b731aa98eeb6e61356ff29bd06d29da2d471b47"
 
 [[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
@@ -178,7 +178,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "3a7c2b872e90887a41204eeffc539dc73fb015f47e4181cac35d3ffe21a9c193"
+hash = "4dee502f1bbd55e578970b177b4f7b1ab0dd24d415f5a890ccf4142e81c68c66"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -194,7 +194,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "c0a920141ac01137f568b2a47d37a4940f89ac3b6e98a9de139e21bf3653af77"
+hash = "9474a74f4ac78fc1e6cd68c14b731aa98eeb6e61356ff29bd06d29da2d471b47"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "1f73ef6670f23c6661848f79e977a204c74e1bf40463e9d89e43568e9173b367"
+hash = "d3c3df262a8b0283cd40a5f22baac9ff651591e0765814df4e01fe737f62e5ec"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1cba6d37b45593a97ee880e0fd3d8cbfaf0d04a115218551c1a7cf60f3eec391"
+hash = "65136e76cb26fd7113b886e926b60b84e3e5daaebe6fc313fd0cc56bc528acd0"
 metafile = true
 
 [[files]]
@@ -354,12 +354,12 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "5bfc77ceb074c33e65579019ff2b0ab68c8919eb399a5651249c432eec7861bc"
+hash = "a3b86fa9237a3f293d75a4ca46e8b6914683c53b8a73bc8b59417a696afb22d7"
 metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "efbe97a87994473da046c7a0686263f13b99762511b5f15cd3c1807dc3f82fbb"
+hash = "9934aeeab8a1abae4ffb5519d2b11b4a54a20738d2f44938fdeb811834791fc2"
 metafile = true
 
 [[files]]
