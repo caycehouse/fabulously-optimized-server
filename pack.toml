@@ -1,12 +1,12 @@
 name = "Fabulously Optimized"
 author = "robotkoer"
-version = "13.2.0-beta.2"
+version = "13.2.0-beta.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e8260f3d216e0bf4d46fb703bd4ed68862e4c95fd0b5777a2e7fb288726b3d88"
+hash = "2762e0cc6c87564d71136c6351a325036183a6e34dd5d8a4429f327fcb3c7b8b"
 
 [versions]
 fabric = "0.19.2"

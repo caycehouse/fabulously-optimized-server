@@ -1,13 +1,13 @@
 name = "Better Block Entities"
-filename = "bbe-fabric-1.3.2+mc26.1.2.jar"
+filename = "bbe-fabric-1.3.3+mc26.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e99db6b1b83575792ef66047c6e04bfdc429f741"
+hash = "8bba1a6e552b3ec93a06bb25cf61f28e8a1707be"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7932113
+file-id = 8001136
 project-id = 1434533
