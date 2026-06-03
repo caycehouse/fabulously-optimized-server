@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "6b0f3376f25a1289d90da4238293aff5aa1551cf17871eba7226883422026f95"
+hash = "d5e8c1df18ba4671ab56a263266b5840c1148b001d297df7fcc8d6e1505d1d6d"
 metafile = true
 
 [[files]]
