@@ -1,13 +1,13 @@
 name = "Animatica Refabricated"
-filename = "animatica-0.6.1+26.1.jar"
+filename = "animatica-0.6.2+26.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa7f61fabcae8af7f6d8a2ff0f3c6ef9767d6f64"
+hash = "5f6c269c6a51608d369759254d2d474c89962227"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7920441
+file-id = 8157875
 project-id = 1512894
