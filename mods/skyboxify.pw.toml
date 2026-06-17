@@ -1,13 +1,13 @@
 name = "Skyboxify"
-filename = "skyboxify-2.8+26.1.2-fabric.jar"
+filename = "skyboxify-3.0+26.2-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "728c3274b6c0ffcaba7eff4f8596d018255f8e14"
+hash = "ae92e98ccb0435abd1f4ffbdff096f09654ef15d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8006966
+file-id = 8262465
 project-id = 1301799
