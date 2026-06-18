@@ -1,0 +1,13 @@
+name = "Cape Provider"
+filename = "cape-provider-5.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b55a68ab6df972b7f8020617b8ed57c7b76dbcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8265471
+project-id = 1291862

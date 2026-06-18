@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/vi_vn.json"
-hash = "e353870c54a5876db06d7d65f10424b528f0fb95d436c02683be5641c931bfc9"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c2651061fb804dd121b407c3ca843d060260409f346e2fba301d47bc7cb9fc77"
+hash = "cee6787c9114eb9d30f39f96867f39965c5da4ef5e1ebfd02c6378e09b9fea32"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9d6bf19b93ec1ad1318e2120a094683f4620246ec3fbc7a13fbc5f057ccae642"
+hash = "a26629bf6d31ec5a2b9b1b25b44c37b8a64858135efa983457e815b60032e0d1"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -122,7 +118,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "c2651061fb804dd121b407c3ca843d060260409f346e2fba301d47bc7cb9fc77"
+hash = "cee6787c9114eb9d30f39f96867f39965c5da4ef5e1ebfd02c6378e09b9fea32"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -138,7 +134,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "9d6bf19b93ec1ad1318e2120a094683f4620246ec3fbc7a13fbc5f057ccae642"
+hash = "a26629bf6d31ec5a2b9b1b25b44c37b8a64858135efa983457e815b60032e0d1"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -177,13 +173,23 @@ file = "config/modpack_defaults/options.txt"
 hash = "51a621b206154ce9487e333b42c8c7872313835913d1c942d69b12e48d3d924a"
 
 [[files]]
+file = "mods/animatica-refabricated.pw.toml"
+hash = "449cdbea73b135d784139bee178ff77e85bba3913c2c21e5c53e581d0cd7fd1a"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "7e23582220be12bc72880e963748f0c186f9aadce11ed92d3baa862e786fc7a8"
 metafile = true
 
 [[files]]
+file = "mods/cape-provider.pw.toml"
+hash = "c6f4a7773ca988594147f5cd909f526308f2cbaba40ec599aa0c508d7ac41ee0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7b109a4d89c487576b9af68168b30084211d5f67124e2f5cc5165dbd083d14ea"
+hash = "ed465f6a77ab84d60aa82cedaa0bd0f56aa2523db9cb010d15f06627c94c9658"
 metafile = true
 
 [[files]]
@@ -217,6 +223,11 @@ hash = "69c0b14fe1ceb54fc531c65d527de02d3a1bc51505b71a7346bdd548e00379bf"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "9ca046d9f6700d5af540f3d557eb356d5c8c5bc1007e6fe957168f7d4638c3c4"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "10e4e335287a7c380e26b95f880fee9096f04788b1617c83deb635d441c88212"
 metafile = true
@@ -227,18 +238,42 @@ hash = "5904220c1cd4599bfa57f89bd7468e14c8ea5469a74bf06c74f6d44d916ca2f3"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "18dd0f8145e9499f2a70c399e994dd38496a60a1d06516a24071c645a9bd5102"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "caaeae233ab21e001ee0832a9f606925955f9d186097feaf4cb7a653d7e5f2d4"
 metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "94ff98511e34418fb105a64ee8b74bfae8cf410b8f2efedbf9eea53c2be85081"
+hash = "778f50d90f41d25bb5fc86badd843ff89ea8c2ca4be94f920c645597a5821ebf"
 metafile = true
+
+[[files]]
+file = "mods/modmenu-20.0.0-beta.2.jar"
+hash = "03fb3ec00a5cdeee7d39a47fdd2687fb7521401436bfb58722a8528051234089"
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "b1aca8a6eec074be8e0147d660116697bf02d4aa3e4a009f5c227f5313c4c53a"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "e68a1b895d1296a8574250e7ee1d71c8a500f7e33e6610b66ad5bb50d5ee77a5"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a7cd1212be3f56641e113dea5e8036a80f86d25cf43724f707eeb2e584e332f8"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "4d411887f4cef046d426eb87fb8e98dc47b76560a0650cdd419e5caf79a56cfd"
 metafile = true
 
 [[files]]
