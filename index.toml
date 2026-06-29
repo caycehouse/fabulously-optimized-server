@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e1e122d76099efa3ae2adf0a5764413c41bb9a578618ac5274e3582b6f2b057c"
+hash = "1b4712039bcdc460a66d9f243b279e5d00429ef2c068cff348717cd88524becd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d9138ea96aa70c8dfa641c393d4cd6dfc7a8e7a825ae36670ea76ef7297820a4"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "d144eb4f917e6cc69750fbf19cbac35e90e023e6046ce0989bbb1eb9313b5cac"
+hash = "33461608dffb05eaff2b6bac6c6202a88986bd02b446b93740011866be462417"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -122,7 +118,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "e1e122d76099efa3ae2adf0a5764413c41bb9a578618ac5274e3582b6f2b057c"
+hash = "1b4712039bcdc460a66d9f243b279e5d00429ef2c068cff348717cd88524becd"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -138,7 +134,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "d9138ea96aa70c8dfa641c393d4cd6dfc7a8e7a825ae36670ea76ef7297820a4"
+hash = "33461608dffb05eaff2b6bac6c6202a88986bd02b446b93740011866be462417"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -158,7 +154,7 @@ hash = "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6"
 
 [[files]]
 file = "config/modpack_defaults/config/reeses_sodium_options.json"
-hash = "118945b4a64523c972d5cdac7b053353cc320d5e6c158a9134ba5e9ba89e2367"
+hash = "997e9be26650206c890e42918ac47ba8b81d90380c522d198941954ad1da2ad3"
 
 [[files]]
 file = "config/modpack_defaults/config/rrls.toml"
@@ -182,7 +178,7 @@ hash = "51a621b206154ce9487e333b42c8c7872313835913d1c942d69b12e48d3d924a"
 
 [[files]]
 file = "config/reeses_sodium_options.json"
-hash = "118945b4a64523c972d5cdac7b053353cc320d5e6c158a9134ba5e9ba89e2367"
+hash = "997e9be26650206c890e42918ac47ba8b81d90380c522d198941954ad1da2ad3"
 
 [[files]]
 file = "mods/animatica-refabricated.pw.toml"
@@ -230,13 +226,18 @@ hash = "b0a311bbc0434c29143d69bbc0a9906e85b913abe79d3a39907a385e0af4c6bd"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "7daae8aa899088936b76ab98cc025b40b0daed662ce480ce554f5eda4e5d7f43"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "cde01216b5130626609411fcd3ee5f8f880222c310bb08ce20fc26586a57e393"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2d7f4333e14d04c4232c082f97a59102663e6d548b267774fda72e107adb512"
+hash = "3536951265daf5dfe78170035b85c2a63fd2fc187bf9754f2ea9221b0a73d267"
 metafile = true
 
 [[files]]
@@ -256,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "94b5886338c83243085de90875ec63ab9d1264548d4131a93276580aaf0e8b35"
+hash = "f78f21d6c0cfc69847ce55276c081a6a438775d7f60038b6a2e0a2e6eca936fc"
 metafile = true
 
 [[files]]
@@ -276,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "caaeae233ab21e001ee0832a9f606925955f9d186097feaf4cb7a653d7e5f2d4"
+hash = "4dff456660324c8c631d6d71c6e49a824e67640cacc0408c9a92d1d0e174799a"
 metafile = true
 
 [[files]]
@@ -286,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ac04d85e978caf2d6aeb224bb9df666797f092e32d607d255af9ee791126f004"
+hash = "099008be64c2334ec87465957dbe592086a47a152d3f0b8856cbad7e841a7974"
 metafile = true
 
 [[files]]
@@ -297,6 +298,16 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e68a1b895d1296a8574250e7ee1d71c8a500f7e33e6610b66ad5bb50d5ee77a5"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "16c7dcc96a27eaa09e77acb00be23972a99660a0b31d0ee65cc59f1e31a2b063"
+metafile = true
+
+[[files]]
+file = "mods/paginated-advancements.pw.toml"
+hash = "323d39fd04b3fb5c22a9c97fb658583e782ab16f260171b2a44adec8e296d424"
 metafile = true
 
 [[files]]
@@ -320,6 +331,16 @@ hash = "d5e8c1df18ba4671ab56a263266b5840c1148b001d297df7fcc8d6e1505d1d6d"
 metafile = true
 
 [[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "6498964aef3c1cb63466bf680d6e52b134c1288a33dc6597f990892b60a2b005"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "ab3156f38cfc48bdc2a92b4730c1a4630ff9c423df706ad4b7761d9e23c7b6b1"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "f7f9cbae656be6ad15f66eb411832a0be8009c9aa0063e2ef5173dd4430de12f"
 metafile = true
